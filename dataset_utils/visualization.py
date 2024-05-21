@@ -62,7 +62,7 @@ def visualize(tool_model, target_model, tool_poses, target_poses, right_hand_mes
         rgb_imgs.append(img)
     
     # save
-    imageio.mimsave(save_path, rgb_imgs, duration=(1000/(30//sampling_rate)))
+    imageio.mimsave(save_path, rgb_imgs, duration=(1000/(30//sampling_rate)), loop=0)
 
     print("###### finish visualization !!! ######")
 
