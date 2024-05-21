@@ -8,9 +8,32 @@
 
 Yun Liu, Haolin Yang, Xu Si, Ling Liu, Zipeng Li, Yuxiang Zhang, Yebin Liu, Li Yi
 
-## Dataset Usage
+## Data Visualization
+
+[1] Environment Setup:
 
 TODO
+
+[2] Download [MANO models](https://mano.is.tue.mpg.de/), and put ```MANO_LEFT.pkl``` and ```MANO_RIGHT.pkl``` in the folder ```dataset_utils/manopth/mano/models```.
+
+[3] Visualize Hand-Object Poses:
+
+```x
+cd dataset_utils
+python visualization.py --dataset_root <dataset root directory> --object_model_root <object model root directory> --triplet <triplet name> --sequence_name <sequence name> --save_path <path to save the visualization result> --device <device for the rendering process>
+```
+
+For example, if you select the following data sequence:
+
+```x
+python visualization.py --dataset_root <dataset root directory> --object_model_root <object model root directory> --triplet "(stir, spoon, bowl)" --sequence_name "20231105_019" --save_path "./example.mp4" --device "cuda:0"
+```
+
+You can obtain the following visualization result:
+
+<video width="1024" height="750" controls>
+  <source src="assets/example.mp4" type="video/mp4">
+</video>
 
 ## Citation
 
