@@ -12,7 +12,17 @@ Yun Liu, Haolin Yang, Xu Si, Ling Liu, Zipeng Li, Yuxiang Zhang, Yebin Liu, Li Y
 
 [1] Environment Setup:
 
-TODO
+Our code is tested on Ubuntu 20.04 with NVIDIA GeForce RTX 3090. The driver version is 535.146.02. The CUDA version is 12.2.
+
+Please install the environment using the following commands:
+
+```x
+conda create -n taco python=3.9
+conda activate taco
+<install PyTorch >= 1.7.1>
+<install PyTorch3D >= 0.6.1>
+pip install -r requirements.txt
+```
 
 [2] Download [MANO models](https://mano.is.tue.mpg.de/), and put ```MANO_LEFT.pkl``` and ```MANO_RIGHT.pkl``` in the folder ```dataset_utils/manopth/mano/models```.
 
