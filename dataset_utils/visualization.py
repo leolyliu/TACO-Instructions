@@ -4,6 +4,7 @@ import argparse
 import numpy as np
 import trimesh
 import cv2
+import imageio
 import pickle
 from tqdm import tqdm
 from pyt3d_wrapper import Pyt3DWrapper
@@ -41,8 +42,7 @@ def visualize(tool_model, target_model, tool_poses, target_poses, right_hand_mes
     
     assert not save_path is None
     os.makedirs(dirname(save_path), exist_ok=True)
-    fourcc = cv2.VideoWriter_fourcc(*'mp4v')
-    video_writer = cv2.VideoWriter(save_path, fourcc, 30 // sampling_rate, IMAGE_SIZE)
+    rgb_imgs = []
     
     for frame_idx in tqdm(range(0, N, sampling_rate)):
         # get object poses in this frame
@@ -59,12 +59,10 @@ def visualize(tool_model, target_model, tool_poses, target_poses, right_hand_mes
         # render
         render_result = pyt3d_wrapper.render_meshes(meshes)
         img = (render_result[0]*255).astype(np.uint8)
-        
-        # save
-        img = cv2.cvtColor(img, cv2.COLOR_RGB2BGR)
-        video_writer.write(img)
+        rgb_imgs.append(img)
     
-    video_writer.release()
+    # save
+    imageio.mimsave(save_path, rgb_imgs, duration=(1000/(30//sampling_rate)))
 
     print("###### finish visualization !!! ######")
 
@@ -123,7 +121,7 @@ def get_args():
     parser.add_argument('--object_model_root', type=str, default="/cephfs_yili/backup/datasets/HOI-mocap_backup_20240423/object_models_released")
     parser.add_argument('--triplet', type=str, default="(stir, spoon, bowl)")
     parser.add_argument('--sequence_name', type=str, default="20231105_019")
-    parser.add_argument('--save_path', type=str, default="./example.mp4")
+    parser.add_argument('--save_path', type=str, default="./example.gif")
     parser.add_argument('--device', type=str, default="cuda:0")
     ###################################################################
 

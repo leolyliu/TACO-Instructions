@@ -26,14 +26,12 @@ python visualization.py --dataset_root <dataset root directory> --object_model_r
 For example, if you select the following data sequence:
 
 ```x
-python visualization.py --dataset_root <dataset root directory> --object_model_root <object model root directory> --triplet "(stir, spoon, bowl)" --sequence_name "20231105_019" --save_path "./example.mp4" --device "cuda:0"
+python visualization.py --dataset_root <dataset root directory> --object_model_root <object model root directory> --triplet "(stir, spoon, bowl)" --sequence_name "20231105_019" --save_path "./example.gif" --device "cuda:0"
 ```
 
 You can obtain the following visualization result:
 
-<video width="1024" height="750" controls>
-  <source src="assets/example.mp4" type="video/mp4">
-</video>
+<img src="https://raw.githubusercontent.com/leolyliu/TACO-Instructions/master/assets/example.gif" width="1024"/>
 
 ## Citation
 
