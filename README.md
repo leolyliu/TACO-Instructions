@@ -41,7 +41,7 @@ python visualization.py --dataset_root <dataset root directory> --object_model_r
 
 You can obtain the following visualization result:
 
-<img src="https://raw.githubusercontent.com/leolyliu/TACO-Instructions/master/assets/example.gif" width="1024"/>
+<img src="https://cloud.tsinghua.edu.cn/seafhttp/files/de879354-c5ce-4ff1-9060-9c3d2bd7a1ac/example.gif" width="1024"/>
 
 ## Citation
 
