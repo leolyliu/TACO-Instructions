@@ -43,6 +43,23 @@ You can obtain the following visualization result:
 
 <img src="https://raw.githubusercontent.com/leolyliu/TACO-Instructions/master/assets/example.gif" width="1024"/>
 
+[4] Parse Egocentric Depth Videos:
+
+Please use the following command for each video:
+
+```x
+ffmpeg -i <egocentric depth video path> -f image2 -start_number 0 -vf fps=fps=30 -qscale:v 2 <egocentric depth image save path>
+```
+
+For example:
+
+```x
+mkdir ./decode
+ffmpeg -i ./egocentric_depth.avi -f image2 -start_number 0 -vf fps=fps=30 -qscale:v 2 ./decode/%05d.png
+```
+
+Each depth image is a 1920x1080 uint16 array. The depth scale is 1000 (i.e. depth values are stored in millimeters).
+
 ## Citation
 
 If you find our work useful in your research, please consider citing:
