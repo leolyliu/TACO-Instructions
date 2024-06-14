@@ -65,10 +65,11 @@ Each depth image is a 1920x1080 uint16 array. The depth scale is 1000 (i.e. dept
 If you find our work useful in your research, please consider citing:
 
 ```
-@article{liu2024taco,
-  title={TACO: Benchmarking Generalizable Bimanual Tool-ACtion-Object Understanding},
+@inproceedings{liu2024taco,
+  title={Taco: Benchmarking generalizable bimanual tool-action-object understanding},
   author={Liu, Yun and Yang, Haolin and Si, Xu and Liu, Ling and Li, Zipeng and Zhang, Yuxiang and Liu, Yebin and Yi, Li},
-  journal={arXiv preprint arXiv:2401.08399},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={21740--21751},
   year={2024}
 }
 ```
