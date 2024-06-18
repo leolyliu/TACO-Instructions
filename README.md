@@ -80,6 +80,10 @@ If you find our work useful in your research, please consider citing:
 }
 ```
 
+## License
+
+This work is licensed under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
+
 ## Email
 
 If you have any questions, please contact ```yun-liu22@mails.tsinghua.edu.cn```.
