@@ -8,6 +8,12 @@
 
 Yun Liu, Haolin Yang, Xu Si, Ling Liu, Zipeng Li, Yuxiang Zhang, Yebin Liu, Li Yi
 
+## Data Instruction
+
+The pre-released version contains 244 high-quality motion sequences spanning 138 <tool, action, object> triplets. Please refer to the "Data Visualization" section for data usage.
+
+The whole dataset will be released very soon. If you have questions about the dataset, please contact ```yun-liu22@mails.tsinghua.edu.cn```.
+
 ## Data Visualization
 
 [1] Environment Setup:
