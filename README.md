@@ -14,6 +14,63 @@ The [pre-released version](https://1drv.ms/f/s!Ap-t7dLl7BFUfmNkrHubnoo8LCs?e=1h0
 
 The [whole dataset](https://1drv.ms/f/c/5411ece5d2edad9f/EkeIFARuXYVNqkYfROjOVD8BhySYm5fzK7-8OkPLBYjz5g?e=7oLmIq) contains the overall 2546 motion sequences, annotations will be released very soon. If you have questions about the dataset, please contact ```yun-liu22@mails.tsinghua.edu.cn```.
 
+## Data Organization
+
+The files of the dataset are organized as follows:
+
+```x
+|-- Allocentric_RGB_Videos
+  |-- <triplet_1>
+    |-- <sequence_1>
+      |-- 22070938.mp4
+      |-- 22139905.mp4
+      ...
+    |-- <sequence_2>
+    ...
+  |-- <triplet_2>
+  ...
+|-- Egocentric_Depth_Videos
+  |-- <triplet_1>
+    |-- <sequence_1>
+      egocentric_depth.avi
+    |-- <sequence_2>
+    ...
+  |-- <triplet_2>
+  ...
+|-- Egocentric_RGB_Videos
+  |-- <triplet_1>
+    |-- <sequence_1>
+      color.mp4
+    |-- <sequence_2>
+    ...
+  |-- <triplet_2>
+  ...
+|-- Hand_Poses
+  |-- <triplet_1>
+    |-- <sequence_1>
+      left_hand_shape.pkl
+      left_hand.pkl
+      right_hand_shape.pkl
+      right_hand.pkl
+    |-- <sequence_2>
+    ...
+  |-- <triplet_2>
+  ...
+|-- Object_Poses
+  |-- <triplet_1>
+    |-- <sequence_1>
+      target_<target_name>.npy
+      tool_<tool_name>.npy
+    |-- <sequence_2>
+    ...
+  |-- <triplet_2>
+  ...
+|-- Object_Models
+  |-- 001_cm.obj
+  ...
+  |-- 218_cm.obj
+```
+
 ## Data Visualization
 
 [1] Environment Setup:
