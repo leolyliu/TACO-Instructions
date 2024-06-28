@@ -2,7 +2,7 @@
 
 [CVPR 2024] Official repository of "TACO: Benchmarking Generalizable Bimanual Tool-ACtion-Object Understanding".
 
-### :page_with_curl:[Paper](https://arxiv.org/pdf/2401.08399.pdf) | :house:[Project](https://taco2024.github.io/) | :movie_camera:[Video](https://youtu.be/bIgHylU1oZo) | :file_folder:[Dataset (pre-released version)](https://1drv.ms/f/s!Ap-t7dLl7BFUfmNkrHubnoo8LCs?e=1h0Xhe) | :file_folder:[Dataset](https://1drv.ms/f/c/5411ece5d2edad9f/EkeIFARuXYVNqkYfROjOVD8BhySYm5fzK7-8OkPLBYjz5g?e=7oLmIq)
+### :page_with_curl:[Paper](https://arxiv.org/pdf/2401.08399.pdf) | :house:[Project](https://taco2024.github.io/) | :movie_camera:[Video](https://youtu.be/bIgHylU1oZo) | :file_folder:[Dataset (pre-released version)](https://1drv.ms/f/s!Ap-t7dLl7BFUfmNkrHubnoo8LCs?e=1h0Xhe) | :file_folder:[Dataset](https://1drv.ms/f/c/5411ece5d2edad9f/EkeIFARuXYVNqkYfROjOVD8BhQxWbVDIP10OhcYdSMEM8A)
 
 #### Authors
 
