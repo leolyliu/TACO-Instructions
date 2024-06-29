@@ -82,8 +82,8 @@ Please install the environment using the following commands:
 ```x
 conda create -n taco python=3.9
 conda activate taco
-<install PyTorch >= 1.7.1>
-<install PyTorch3D >= 0.6.1>
+<install PyTorch >= 1.7.1, we use PyTorch 1.11.0>
+<install PyTorch3D >= 0.6.1, we use PyTorch3D 0.7.2>
 pip install -r requirements.txt
 ```
 
