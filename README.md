@@ -23,7 +23,9 @@ cat Egocentric_Depth_Videos_split.* > Egocentric_Depth_Videos.zip
 
 ### Whole Dataset
 
-The [whole dataset](https://1drv.ms/f/c/5411ece5d2edad9f/EkeIFARuXYVNqkYfROjOVD8BhySYm5fzK7-8OkPLBYjz5g?e=7oLmIq) contains the overall 2546 motion sequences, annotations will be released very soon. If you have questions about the dataset, please contact ```yun-liu22@mails.tsinghua.edu.cn```.
+The [whole dataset](https://www.dropbox.com/scl/fo/6wux06w26exuqt004eg1a/AM4Ia7pK_b0DURAVyxpHLuY?rlkey=e76q06hyj9yqbahhipmf5ij1o&st=c30zhh8s&dl=0) contains 2316 motion sequences. Please refer to the "Data Visualization" section for data usage.
+
+If you have questions about the dataset, please contact ```yun-liu22@mails.tsinghua.edu.cn```.
 
 ## Data Organization
 
