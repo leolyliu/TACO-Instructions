@@ -12,7 +12,7 @@ Yun Liu, Haolin Yang, Xu Si, Ling Liu, Zipeng Li, Yuxiang Zhang, Yebin Liu, Li Y
 
 ### Pre-released Version
 
-The [pre-released version](https://1drv.ms/f/s!Ap-t7dLl7BFUfmNkrHubnoo8LCs?e=1h0Xhe) contains 244 high-quality motion sequences spanning 138 <tool, action, object> triplets. Please refer to the "Data Visualization" section for data usage.
+The [pre-released version](https://1drv.ms/f/s!Ap-t7dLl7BFUfmNkrHubnoo8LCs?e=1h0Xhe) contains 244 high-quality motion sequences spanning 137 <tool, action, object> triplets. Please refer to the "Data Visualization" section for data usage.
 
 We back up the data at [BaiduNetDisk](https://pan.baidu.com/s/1gANrhzdUyvsUGXcDB4xMfQ?pwd=kg7j). Some of the files are split due to file size limitations. To get the original zip files, please use the following commands:
 
@@ -21,9 +21,28 @@ cat Allocentric_RGB_Videos_split.* > Allocentric_RGB_Videos.zip
 cat Egocentric_Depth_Videos_split.* > Egocentric_Depth_Videos.zip
 ```
 
+Dataset contents:
+
+* **244** high-quality motions sequences spanning **137** ```<tool, action, object>``` triplets
+* **206** High-resolution object models (10K~100K faces per object mesh)
+* Hand-object pose and mesh annotations
+* Egocentric RGB-D videos
+* **8** allocentric RGB videos
+
 ### Whole Dataset
 
 The [whole dataset](https://www.dropbox.com/scl/fo/6wux06w26exuqt004eg1a/AM4Ia7pK_b0DURAVyxpHLuY?rlkey=e76q06hyj9yqbahhipmf5ij1o&st=c30zhh8s&dl=0) contains 2316 motion sequences. Please refer to the "Data Visualization" section for data usage.
+
+Dataset contents:
+
+* **2316** motions sequences spanning **151** ```<tool, action, object>``` triplets
+* **206** High-resolution object models (10K~100K faces per object mesh)
+* Hand-object pose and mesh annotations
+* Egocentric RGB-D videos
+* **12** allocentric RGB videos
+* Camera parameters
+* Automatic Hand-object 2D segmentations
+* Automatic marker-removed images
 
 If you have questions about the dataset, please contact ```yun-liu22@mails.tsinghua.edu.cn```.
 
