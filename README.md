@@ -35,14 +35,13 @@ The [whole dataset](https://www.dropbox.com/scl/fo/6wux06w26exuqt004eg1a/AM4Ia7p
 
 Dataset contents:
 
-* **2316** motions sequences spanning **151** ```<tool, action, object>``` triplets
+* **2317** motions sequences spanning **151** ```<tool, action, object>``` triplets
 * **206** High-resolution object models (10K~100K faces per object mesh)
 * Hand-object pose and mesh annotations
 * Egocentric RGB-D videos
 * **12** allocentric RGB videos
 * Camera parameters
 * Automatic Hand-object 2D segmentations
-* Automatic marker-removed images
 
 If you have questions about the dataset, please contact ```yun-liu22@mails.tsinghua.edu.cn```.
 
