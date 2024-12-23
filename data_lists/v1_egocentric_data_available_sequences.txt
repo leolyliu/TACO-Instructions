@@ -1,0 +1,2212 @@
+(dust, roller, pan) 20230927_032
+(dust, roller, pan) 20231019_072
+(dust, roller, pan) 20231013_177
+(dust, roller, pan) 20231013_211
+(dust, roller, pan) 20231019_056
+(dust, roller, pan) 20231013_253
+(dust, roller, pan) 20231019_064
+(dust, roller, pan) 20231013_215
+(dust, roller, pan) 20231019_216
+(dust, roller, pan) 20231019_062
+(dust, roller, pan) 20231019_134
+(dust, roller, pan) 20231019_142
+(dust, roller, pan) 20231019_210
+(dust, roller, pan) 20231019_202
+(dust, roller, pan) 20231019_208
+(dust, roller, pan) 20231019_126
+(dust, roller, pan) 20231019_074
+(dust, roller, pan) 20231019_076
+(dust, roller, pan) 20231019_132
+(dust, roller, pan) 20231019_218
+(dust, roller, pan) 20231019_136
+(dust, roller, pan) 20231019_054
+(dust, roller, pan) 20231019_068
+(dust, roller, pan) 20231019_130
+(dust, roller, pan) 20231019_140
+(dust, roller, pan) 20231019_212
+(dust, roller, pan) 20231013_175
+(dust, roller, pan) 20231019_144
+(dust, roller, pan) 20231019_066
+(dust, roller, pan) 20231019_214
+(dust, roller, pan) 20231013_213
+(dust, roller, pan) 20231019_204
+(dust, roller, pan) 20231019_198
+(dust, roller, pan) 20231019_138
+(dust, roller, pan) 20231019_200
+(dust, roller, pan) 20231019_206
+(dust, roller, pan) 20231013_181
+(dust, roller, pan) 20231019_128
+(dust, roller, pan) 20231019_146
+(dust, roller, pan) 20231019_220
+(dust, roller, pan) 20231013_217
+(dust, roller, pan) 20231019_058
+(dust, roller, pan) 20231019_070
+(dust, roller, pan) 20231013_249
+(scrape off, spatula, plate) 20231104_123
+(scrape off, spatula, plate) 20231104_154
+(scrape off, spatula, plate) 20231005_046
+(scrape off, spatula, plate) 20231104_175
+(scrape off, spatula, plate) 20231005_032
+(scrape off, spatula, plate) 20231104_124
+(scrape off, spatula, plate) 20231104_161
+(scrape off, spatula, plate) 20231005_053
+(scrape off, spatula, plate) 20230930_015
+(scrape off, spatula, plate) 20231104_168
+(scrape off, spatula, plate) 20231104_140
+(scrape off, spatula, plate) 20230930_065
+(scrape off, spatula, plate) 20230927_003
+(hit, hammer, toy) 20231102_070
+(hit, hammer, toy) 20231102_054
+(hit, hammer, toy) 20231102_051
+(hit, hammer, toy) 20231102_069
+(hit, hammer, toy) 20231102_052
+(hit, hammer, toy) 20231102_053
+(brush, eraser, plate) 20231103_057
+(brush, eraser, plate) 20231027_059
+(brush, eraser, plate) 20231027_057
+(brush, eraser, plate) 20231103_060
+(brush, eraser, plate) 20231027_061
+(brush, eraser, plate) 20231103_061
+(brush, eraser, plate) 20231027_054
+(brush, eraser, plate) 20231027_051
+(brush, eraser, plate) 20231103_065
+(brush, eraser, plate) 20231103_051
+(brush, eraser, plate) 20231103_052
+(brush, eraser, plate) 20231027_053
+(brush, eraser, plate) 20231103_049
+(brush, eraser, plate) 20231103_066
+(brush, eraser, plate) 20231103_054
+(brush, eraser, plate) 20231027_062
+(brush, eraser, plate) 20231103_069
+(brush, eraser, plate) 20231027_048
+(brush, eraser, plate) 20231027_056
+(brush, eraser, plate) 20231103_053
+(brush, eraser, plate) 20231027_063
+(brush, eraser, plate) 20231027_050
+(brush, eraser, plate) 20231027_045
+(brush, eraser, plate) 20231103_050
+(brush, eraser, plate) 20231103_048
+(brush, eraser, plate) 20231103_064
+(brush, eraser, plate) 20231103_058
+(brush, eraser, plate) 20231103_063
+(brush, eraser, plate) 20231027_058
+(brush, eraser, plate) 20231103_062
+(brush, eraser, plate) 20231027_052
+(brush, eraser, plate) 20231103_059
+(brush, eraser, plate) 20231027_046
+(brush, eraser, plate) 20231103_055
+(brush, eraser, plate) 20231027_055
+(brush, eraser, plate) 20231027_064
+(brush, eraser, plate) 20231103_068
+(brush, eraser, plate) 20231103_056
+(empty, kettle, bowl) 20231019_028
+(empty, kettle, bowl) 20231019_026
+(empty, kettle, bowl) 20231031_050
+(empty, kettle, bowl) 20231019_018
+(empty, kettle, bowl) 20231031_044
+(empty, kettle, bowl) 20231019_020
+(empty, kettle, bowl) 20231019_010
+(empty, kettle, bowl) 20231031_042
+(empty, kettle, bowl) 20231031_052
+(empty, kettle, bowl) 20231019_002
+(empty, kettle, bowl) 20231019_012
+(empty, kettle, bowl) 20231019_004
+(cut, spatula, bowl) 20231027_065
+(cut, spatula, bowl) 20231024_140
+(cut, spatula, bowl) 20231027_075
+(cut, spatula, bowl) 20231024_211
+(cut, spatula, bowl) 20231024_181
+(cut, spatula, bowl) 20231027_081
+(cut, spatula, bowl) 20231024_158
+(cut, spatula, bowl) 20231027_072
+(cut, spatula, bowl) 20231027_074
+(cut, spatula, bowl) 20231024_176
+(cut, spatula, bowl) 20231024_170
+(cut, spatula, bowl) 20231027_077
+(cut, spatula, bowl) 20231024_110
+(cut, spatula, bowl) 20231024_152
+(cut, spatula, bowl) 20231024_199
+(cut, spatula, bowl) 20231024_128
+(cut, spatula, bowl) 20231024_187
+(cut, spatula, bowl) 20231027_082
+(cut, spatula, bowl) 20231024_146
+(cut, spatula, bowl) 20231027_073
+(cut, spatula, bowl) 20231024_122
+(cut, spatula, bowl) 20231024_116
+(cut, spatula, bowl) 20231027_076
+(cut, spatula, bowl) 20231027_067
+(cut, spatula, bowl) 20230930_072
+(cut, spatula, bowl) 20231027_068
+(cut, spatula, bowl) 20231027_080
+(cut, spatula, bowl) 20231024_164
+(cut, spatula, bowl) 20231027_069
+(cut, spatula, bowl) 20231024_134
+(cut, spatula, bowl) 20231027_079
+(put out, spatula, plate) 20231104_173
+(put out, spatula, plate) 20231005_044
+(put out, spatula, plate) 20231005_037
+(put out, spatula, plate) 20231104_152
+(put out, spatula, plate) 20231104_159
+(put out, spatula, plate) 20231005_058
+(put out, spatula, plate) 20231104_120
+(put out, spatula, plate) 20231005_051
+(put out, spatula, plate) 20231104_138
+(put out, spatula, plate) 20231104_119
+(put out, spatula, plate) 20231015_118
+(put out, spatula, plate) 20231005_030
+(pour in some, bowl, plate) 20231024_246
+(pour in some, bowl, plate) 20231027_138
+(pour in some, bowl, plate) 20231027_122
+(pour in some, bowl, plate) 20231027_130
+(pour in some, bowl, plate) 20230928_021
+(pour in some, bowl, plate) 20231024_236
+(pour in some, bowl, plate) 20231024_277
+(pour in some, bowl, plate) 20231024_226
+(pour in some, bowl, plate) 20231027_124
+(pour in some, bowl, plate) 20230930_137
+(pour in some, bowl, plate) 20231027_146
+(pour in some, bowl, plate) 20231024_231
+(pour in some, bowl, plate) 20231024_282
+(pour in some, bowl, plate) 20231024_251
+(pour in some, bowl, plate) 20231027_126
+(pour in some, bowl, plate) 20230927_017
+(pour in some, bowl, plate) 20231024_256
+(pour in some, bowl, plate) 20231024_241
+(pour in some, bowl, plate) 20231027_148
+(pour in some, bowl, plate) 20231027_140
+(pour in some, bowl, plate) 20231024_297
+(pour in some, bowl, plate) 20231024_221
+(pour in some, bowl, plate) 20231024_302
+(pour in some, bowl, plate) 20231027_142
+(pour in some, bowl, plate) 20231027_136
+(pour in some, bowl, plate) 20231024_292
+(pour in some, bowl, plate) 20231024_216
+(pour in some, bowl, plate) 20231027_134
+(pour in some, bowl, plate) 20231027_128
+(skim off, bowl, pan) 20231020_096
+(skim off, bowl, pan) 20231013_034
+(skim off, bowl, pan) 20231020_099
+(skim off, bowl, pan) 20231015_083
+(skim off, bowl, pan) 20231020_175
+(skim off, bowl, pan) 20230929_018
+(skim off, bowl, pan) 20231020_184
+(skim off, bowl, pan) 20231015_095
+(skim off, bowl, pan) 20230929_020
+(skim off, bowl, pan) 20230929_016
+(skim off, bowl, pan) 20231020_089
+(skim off, bowl, pan) 20231013_031
+(skim off, bowl, pan) 20231020_187
+(skim off, bowl, pan) 20231020_181
+(skim off, bowl, pan) 20231020_172
+(skim off, bowl, pan) 20230926_017
+(skim off, bowl, pan) 20231020_178
+(skim off, bowl, pan) 20231020_092
+(skim off, bowl, pan) 20230927_014
+(skim off, bowl, pan) 20231013_037
+(skim off, bowl, pan) 20231015_092
+(skim off, bowl, pan) 20231015_080
+(hit, hammer, box) 20231102_003
+(hit, hammer, box) 20231031_179
+(hit, hammer, box) 20231031_188
+(hit, hammer, box) 20231031_187
+(hit, hammer, box) 20231031_180
+(hit, hammer, box) 20231031_185
+(hit, hammer, box) 20231031_182
+(hit, hammer, box) 20231102_002
+(hit, hammer, box) 20231031_189
+(hit, hammer, box) 20231002_057
+(hit, hammer, box) 20231031_186
+(hit, hammer, box) 20231031_184
+(hit, hammer, box) 20231031_181
+(hit, hammer, box) 20231031_178
+(empty, plate, cup) 20230928_033
+(brush, brush, bowl) 20231005_188
+(brush, brush, bowl) 20231006_145
+(brush, brush, bowl) 20231005_190
+(brush, brush, bowl) 20231005_196
+(brush, brush, bowl) 20231005_186
+(brush, brush, bowl) 20230927_027
+(brush, brush, bowl) 20231005_194
+(pour in some, cup, kettle) 20230929_025
+(pour in some, cup, kettle) 20231019_035
+(pour in some, cup, kettle) 20231031_029
+(pour in some, cup, kettle) 20231019_037
+(pour in some, cup, kettle) 20231031_037
+(pour in some, cup, kettle) 20231031_031
+(pour in some, cup, kettle) 20231031_039
+(empty, bowl, plate) 20231027_149
+(empty, bowl, plate) 20231027_125
+(empty, bowl, plate) 20231027_123
+(empty, bowl, plate) 20230928_022
+(empty, bowl, plate) 20231027_127
+(empty, bowl, plate) 20231027_129
+(empty, bowl, plate) 20231024_232
+(empty, bowl, plate) 20231027_137
+(empty, bowl, plate) 20231027_145
+(empty, bowl, plate) 20231027_135
+(empty, bowl, plate) 20231024_217
+(empty, bowl, plate) 20230930_138
+(empty, bowl, plate) 20231024_293
+(empty, bowl, plate) 20231024_227
+(empty, bowl, plate) 20231024_237
+(empty, bowl, plate) 20231024_247
+(empty, bowl, plate) 20231024_303
+(empty, bowl, plate) 20231027_131
+(empty, bowl, plate) 20231027_147
+(empty, bowl, plate) 20230930_134
+(empty, bowl, plate) 20231024_222
+(empty, bowl, plate) 20231027_141
+(empty, bowl, plate) 20231024_278
+(empty, bowl, plate) 20231024_257
+(empty, bowl, plate) 20231024_283
+(empty, bowl, plate) 20231027_139
+(empty, bowl, plate) 20231027_143
+(empty, bowl, plate) 20231024_298
+(empty, bowl, plate) 20231024_252
+(brush, roller, bowl) 20231103_205
+(brush, roller, bowl) 20231013_288
+(brush, roller, bowl) 20231013_286
+(brush, roller, bowl) 20231013_296
+(brush, roller, bowl) 20231103_207
+(brush, roller, bowl) 20231013_278
+(brush, roller, bowl) 20231103_213
+(brush, roller, bowl) 20231103_211
+(brush, roller, bowl) 20231103_199
+(brush, roller, bowl) 20231103_197
+(brush, roller, bowl) 20231103_209
+(brush, roller, bowl) 20231103_203
+(brush, roller, bowl) 20231013_298
+(brush, roller, bowl) 20230927_035
+(brush, roller, bowl) 20231103_201
+(brush, roller, bowl) 20231103_215
+(brush, roller, bowl) 20231013_280
+(brush, roller, plate) 20231019_221
+(brush, roller, plate) 20231019_173
+(brush, roller, plate) 20231020_003
+(brush, roller, plate) 20231019_227
+(brush, roller, plate) 20231019_239
+(brush, roller, plate) 20231019_185
+(brush, roller, plate) 20231013_266
+(brush, roller, plate) 20231019_091
+(brush, roller, plate) 20231019_095
+(brush, roller, plate) 20231019_099
+(brush, roller, plate) 20231019_243
+(brush, roller, plate) 20231013_274
+(brush, roller, plate) 20231019_229
+(brush, roller, plate) 20231013_186
+(brush, roller, plate) 20231013_276
+(brush, roller, plate) 20231019_101
+(brush, roller, plate) 20231019_079
+(brush, roller, plate) 20231019_183
+(brush, roller, plate) 20231013_270
+(brush, roller, plate) 20231019_237
+(brush, roller, plate) 20231013_224
+(brush, roller, plate) 20231013_236
+(brush, roller, plate) 20231019_235
+(brush, roller, plate) 20231019_247
+(brush, roller, plate) 20231019_189
+(brush, roller, plate) 20231019_165
+(brush, roller, plate) 20231020_005
+(brush, roller, plate) 20231019_097
+(brush, roller, plate) 20230928_052
+(brush, roller, plate) 20231013_258
+(brush, roller, plate) 20231019_233
+(brush, roller, plate) 20231019_105
+(brush, roller, plate) 20231019_181
+(brush, roller, plate) 20231019_225
+(brush, roller, plate) 20230928_043
+(brush, roller, plate) 20231019_187
+(brush, roller, plate) 20231019_083
+(brush, roller, plate) 20231019_153
+(brush, roller, plate) 20231020_011
+(brush, roller, plate) 20231019_115
+(brush, roller, plate) 20231019_251
+(brush, roller, plate) 20231019_149
+(brush, roller, plate) 20231013_232
+(brush, roller, plate) 20231013_262
+(brush, roller, plate) 20231019_157
+(brush, roller, plate) 20231019_223
+(brush, roller, plate) 20231019_179
+(brush, roller, plate) 20231013_254
+(brush, roller, plate) 20231019_109
+(brush, roller, plate) 20231020_015
+(brush, roller, plate) 20231013_228
+(brush, roller, plate) 20231019_085
+(brush, roller, plate) 20231019_191
+(brush, roller, plate) 20231019_163
+(brush, roller, plate) 20231013_220
+(brush, roller, plate) 20231020_009
+(brush, roller, plate) 20231020_013
+(brush, roller, plate) 20231019_081
+(brush, roller, plate) 20231019_195
+(brush, roller, plate) 20230927_033
+(brush, roller, plate) 20231013_182
+(brush, roller, plate) 20231019_161
+(brush, roller, plate) 20231019_155
+(brush, roller, plate) 20231013_264
+(brush, roller, plate) 20231020_001
+(brush, roller, plate) 20231013_226
+(brush, roller, plate) 20231019_241
+(brush, roller, plate) 20231019_117
+(brush, roller, plate) 20231013_188
+(brush, roller, plate) 20231019_231
+(brush, roller, plate) 20231013_218
+(brush, roller, plate) 20231019_169
+(brush, roller, plate) 20231019_121
+(brush, roller, plate) 20231019_171
+(brush, roller, plate) 20231020_007
+(brush, roller, plate) 20231019_193
+(brush, roller, plate) 20231013_272
+(brush, roller, plate) 20231019_167
+(brush, roller, plate) 20231019_177
+(brush, roller, plate) 20231013_240
+(brush, roller, plate) 20231019_123
+(brush, roller, plate) 20231013_234
+(brush, roller, plate) 20231019_077
+(brush, roller, plate) 20231019_159
+(brush, roller, plate) 20231013_260
+(brush, roller, plate) 20231019_175
+(brush, roller, plate) 20231019_249
+(brush, roller, plate) 20231019_093
+(brush, roller, plate) 20231019_245
+(stir-fry, spoon, pan) 20231020_071
+(stir-fry, spoon, pan) 20231020_085
+(stir-fry, spoon, pan) 20231013_027
+(stir-fry, spoon, pan) 20231020_064
+(stir-fry, spoon, pan) 20231020_168
+(stir-fry, spoon, pan) 20230927_011
+(stir-fry, spoon, pan) 20231020_050
+(stir-fry, spoon, pan) 20231020_057
+(stir-fry, spoon, pan) 20231020_078
+(stir-fry, spoon, pan) 20231020_161
+(stir-fry, spoon, pan) 20231020_147
+(stir-fry, spoon, pan) 20231020_154
+(scrape off, spatula, bowl) 20231024_175
+(scrape off, spatula, bowl) 20231024_133
+(scrape off, spatula, bowl) 20230930_071
+(scrape off, spatula, bowl) 20231024_139
+(scrape off, spatula, bowl) 20231024_169
+(scrape off, spatula, bowl) 20231024_145
+(scrape off, spatula, bowl) 20231024_115
+(scrape off, spatula, bowl) 20231024_192
+(scrape off, spatula, bowl) 20231024_163
+(scrape off, spatula, bowl) 20231024_180
+(scrape off, spatula, bowl) 20231024_151
+(scrape off, spatula, bowl) 20231024_109
+(scrape off, spatula, bowl) 20231024_127
+(scrape off, spatula, bowl) 20231024_186
+(scrape off, spatula, bowl) 20231024_157
+(scrape off, spatula, bowl) 20231024_204
+(scrape off, spatula, bowl) 20231024_198
+(scrape off, spatula, bowl) 20231024_121
+(pour in some, plate, cup) 20230928_032
+(brush, eraser, kettle) 20231103_102
+(brush, eraser, kettle) 20231103_103
+(brush, eraser, kettle) 20231103_108
+(brush, eraser, kettle) 20231103_110
+(brush, eraser, kettle) 20231103_099
+(brush, eraser, kettle) 20231103_101
+(brush, eraser, kettle) 20231103_106
+(brush, eraser, kettle) 20231103_100
+(pour in some, bowl, kettle) 20231019_013
+(pour in some, bowl, kettle) 20231031_047
+(pour in some, bowl, kettle) 20231031_053
+(pour in some, bowl, kettle) 20231019_029
+(pour in some, bowl, kettle) 20231019_007
+(pour in some, bowl, kettle) 20231031_045
+(pour in some, bowl, kettle) 20231031_055
+(pour in some, bowl, kettle) 20231019_005
+(pour in some, bowl, kettle) 20231019_021
+(scrape off, spoon, pan) 20231020_083
+(scrape off, spoon, pan) 20231020_159
+(scrape off, spoon, pan) 20231020_076
+(scrape off, spoon, pan) 20231020_152
+(scrape off, spoon, pan) 20230926_026
+(scrape off, spoon, pan) 20231020_055
+(scrape off, spoon, pan) 20231020_048
+(scrape off, spoon, pan) 20231020_062
+(scrape off, spoon, pan) 20231020_145
+(scrape off, spoon, pan) 20231020_069
+(scrape off, spoon, pan) 20231020_166
+(scrape off, spoon, pan) 20230926_028
+(scrape off, spoon, pan) 20230926_029
+(scrape off, spoon, pan) 20231006_053
+(scrape off, spoon, pan) 20230927_009
+(scrape off, spoon, pan) 20231006_046
+(scrape off, spoon, pan) 20231006_039
+(cut, spatula, plate) 20231005_033
+(cut, spatula, plate) 20231104_126
+(cut, spatula, plate) 20231104_155
+(cut, spatula, plate) 20231104_125
+(cut, spatula, plate) 20231104_169
+(cut, spatula, plate) 20231005_047
+(cut, spatula, plate) 20230917_021
+(cut, spatula, plate) 20230927_004
+(cut, spatula, plate) 20231104_176
+(cut, spatula, plate) 20231104_148
+(cut, spatula, plate) 20231104_141
+(pour in some, plate, plate) 20230930_141
+(pour in some, plate, plate) 20230930_143
+(stir, spoon, plate) 20231024_006
+(stir, spoon, plate) 20231024_036
+(stir, spoon, plate) 20231024_012
+(stir, spoon, plate) 20231024_054
+(stir, spoon, plate) 20231024_048
+(stir, spoon, plate) 20231024_093
+(stir, spoon, plate) 20231024_078
+(stir, spoon, plate) 20231024_018
+(stir, spoon, plate) 20231024_030
+(stir, spoon, plate) 20231024_042
+(stir, spoon, plate) 20231024_072
+(stir, spoon, plate) 20231024_105
+(stir, spoon, plate) 20231024_088
+(stir, spoon, plate) 20231024_099
+(stir, spoon, plate) 20231024_060
+(stir, spoon, plate) 20231024_023
+(stir, spoon, plate) 20231024_066
+(cut, knife, bowl) 20231020_262
+(cut, knife, bowl) 20231020_256
+(cut, knife, bowl) 20231020_261
+(cut, knife, bowl) 20231020_263
+(cut, knife, bowl) 20231020_270
+(cut, knife, bowl) 20231020_257
+(cut, knife, bowl) 20231020_268
+(cut, knife, bowl) 20231020_259
+(cut, knife, bowl) 20231020_255
+(cut, knife, bowl) 20231020_269
+(cut, knife, bowl) 20231020_260
+(cut, knife, bowl) 20231020_254
+(empty, teapot, plate) 20231031_097
+(empty, teapot, plate) 20231031_078
+(empty, teapot, plate) 20231031_101
+(empty, teapot, plate) 20231031_095
+(empty, teapot, plate) 20231031_090
+(empty, teapot, plate) 20231031_099
+(empty, teapot, plate) 20231031_084
+(empty, teapot, plate) 20231031_093
+(empty, teapot, plate) 20231031_082
+(empty, teapot, plate) 20230927_044
+(empty, teapot, plate) 20231031_086
+(empty, teapot, plate) 20231031_088
+(smear, glue gun, plate) 20231010_194
+(put out, bowl, plate) 20231024_280
+(put out, bowl, plate) 20231024_295
+(put out, bowl, plate) 20231024_239
+(put out, bowl, plate) 20231024_300
+(put out, bowl, plate) 20231024_224
+(put out, bowl, plate) 20231024_234
+(put out, bowl, plate) 20231024_214
+(put out, bowl, plate) 20231024_285
+(put out, bowl, plate) 20231024_275
+(put out, bowl, plate) 20231024_229
+(put out, bowl, plate) 20231024_219
+(put out, bowl, plate) 20231024_259
+(put out, bowl, plate) 20231024_290
+(put out, bowl, plate) 20231024_244
+(put out, bowl, plate) 20231024_249
+(put out, bowl, plate) 20231024_254
+(empty, bowl, cup) 20230930_124
+(empty, bowl, cup) 20231006_278
+(empty, bowl, cup) 20230929_032
+(empty, bowl, cup) 20231006_266
+(dust, brush, cup) 20231005_255
+(dust, brush, cup) 20231006_238
+(dust, brush, cup) 20231005_250
+(dust, brush, cup) 20231005_253
+(dust, brush, cup) 20231006_247
+(dust, brush, cup) 20231005_251
+(dust, brush, cup) 20231006_200
+(dust, brush, cup) 20231006_235
+(dust, brush, cup) 20231005_244
+(dust, brush, cup) 20231005_246
+(dust, brush, cup) 20231006_204
+(dust, brush, cup) 20231005_254
+(dust, brush, cup) 20231006_205
+(dust, brush, cup) 20231006_202
+(dust, brush, cup) 20231006_245
+(dust, brush, cup) 20231006_194
+(dust, brush, cup) 20231006_244
+(dust, brush, cup) 20231006_240
+(dust, brush, cup) 20231006_203
+(dust, brush, cup) 20231006_242
+(dust, brush, cup) 20231006_246
+(dust, brush, cup) 20231006_195
+(dust, brush, cup) 20231005_248
+(dust, brush, cup) 20231006_196
+(brush, brush, plate) 20230929_035
+(brush, brush, plate) 20230928_044
+(brush, brush, plate) 20231006_121
+(brush, brush, plate) 20230929_033
+(brush, brush, plate) 20231006_119
+(brush, brush, plate) 20230929_037
+(brush, brush, plate) 20230927_025
+(brush, brush, plate) 20230929_039
+(brush, brush, plate) 20230928_050
+(brush, brush, plate) 20231005_184
+(empty, plate, plate) 20230930_144
+(empty, plate, plate) 20230930_142
+(skim off, spoon, pan) 20231020_151
+(skim off, spoon, pan) 20231020_165
+(skim off, spoon, pan) 20231005_087
+(skim off, spoon, pan) 20230927_008
+(skim off, spoon, pan) 20231005_101
+(skim off, spoon, pan) 20231006_052
+(skim off, spoon, pan) 20231020_144
+(skim off, spoon, pan) 20231006_038
+(skim off, spoon, pan) 20231020_054
+(skim off, spoon, pan) 20231020_068
+(skim off, spoon, pan) 20231020_047
+(skim off, spoon, pan) 20231020_075
+(skim off, spoon, pan) 20231020_082
+(skim off, spoon, pan) 20231020_158
+(skim off, spoon, pan) 20231020_061
+(skim off, spoon, pan) 20230926_011
+(skim off, spoon, pan) 20231006_045
+(pour in some, cup, teapot) 20230927_041
+(put out, bowl, bowl) 20231013_131
+(put out, bowl, bowl) 20231013_136
+(put out, bowl, bowl) 20231013_161
+(put out, bowl, bowl) 20231013_141
+(put out, bowl, bowl) 20231013_146
+(pour in some, box, plate) 20231027_174
+(pour in some, box, plate) 20230928_036
+(pour in some, box, plate) 20231027_164
+(pour in some, box, plate) 20231027_176
+(pour in some, box, plate) 20230927_047
+(pour in some, box, plate) 20231027_152
+(pour in some, box, plate) 20231027_150
+(pour in some, box, plate) 20231027_154
+(pour in some, box, plate) 20231027_160
+(pour in some, box, plate) 20231027_158
+(pour in some, box, plate) 20231027_156
+(pour in some, box, plate) 20231027_162
+(pour in some, box, plate) 20231027_172
+(pour in some, box, plate) 20231027_166
+(put in, spoon, plate) 20231024_013
+(put in, spoon, plate) 20231024_073
+(put in, spoon, plate) 20231024_001
+(put in, spoon, plate) 20231024_049
+(put in, spoon, plate) 20231024_043
+(put in, spoon, plate) 20231024_007
+(put in, spoon, plate) 20231024_061
+(put in, spoon, plate) 20231024_067
+(put in, spoon, plate) 20231024_094
+(put in, spoon, plate) 20231024_079
+(put in, spoon, plate) 20231024_089
+(put in, spoon, plate) 20231024_100
+(put in, spoon, plate) 20231024_055
+(put in, spoon, plate) 20231024_037
+(put in, spoon, plate) 20231024_083
+(put in, spoon, plate) 20231024_031
+(put in, spoon, plate) 20231024_025
+(put in, spoon, plate) 20231024_019
+(put in, spoon, pan) 20231015_159
+(put in, spoon, pan) 20231013_015
+(put in, spoon, pan) 20231020_080
+(put in, spoon, pan) 20231020_142
+(put in, spoon, pan) 20230927_007
+(put in, spoon, pan) 20231020_059
+(put in, spoon, pan) 20231020_073
+(put in, spoon, pan) 20231020_149
+(put in, spoon, pan) 20231013_022
+(put in, spoon, pan) 20231020_163
+(put in, spoon, pan) 20231020_066
+(put in, spoon, pan) 20231020_156
+(put in, spoon, pan) 20231006_036
+(put in, spoon, pan) 20231020_052
+(brush, brush, teapot) 20230930_054
+(brush, brush, teapot) 20231006_181
+(brush, brush, teapot) 20231006_185
+(brush, brush, teapot) 20231006_219
+(brush, brush, teapot) 20230930_048
+(brush, brush, teapot) 20231006_189
+(brush, brush, teapot) 20231006_223
+(brush, brush, teapot) 20231006_187
+(brush, brush, teapot) 20231006_233
+(brush, brush, teapot) 20230930_056
+(brush, brush, teapot) 20231006_221
+(brush, brush, teapot) 20231006_217
+(brush, brush, teapot) 20231006_183
+(brush, brush, teapot) 20231006_229
+(brush, brush, teapot) 20231006_179
+(brush, brush, teapot) 20231006_231
+(brush, brush, teapot) 20231006_175
+(brush, brush, teapot) 20231006_225
+(brush, brush, teapot) 20231006_227
+(pour in some, cup, plate) 20230928_030
+(screw, screwdriver, box) 20231102_048
+(screw, screwdriver, box) 20231102_029
+(screw, screwdriver, box) 20231102_047
+(screw, screwdriver, box) 20231102_045
+(screw, screwdriver, box) 20231102_010
+(screw, screwdriver, box) 20231102_050
+(screw, screwdriver, box) 20231102_028
+(screw, screwdriver, box) 20231102_009
+(screw, screwdriver, box) 20231102_027
+(put in, spatula, pan) 20231010_001
+(put in, spatula, pan) 20231020_121
+(put in, spatula, pan) 20231006_001
+(put in, spatula, pan) 20230930_001
+(put in, spatula, pan) 20231013_008
+(put in, spatula, pan) 20231020_107
+(put in, spatula, pan) 20231015_029
+(put in, spatula, pan) 20231005_015
+(put in, spatula, pan) 20231020_017
+(put in, spatula, pan) 20231006_008
+(put in, spatula, pan) 20231005_022
+(put in, spatula, pan) 20231020_114
+(put in, spatula, pan) 20231006_015
+(put in, spatula, pan) 20231015_001
+(put in, spatula, pan) 20231020_031
+(put in, spatula, pan) 20231020_100
+(put in, spatula, pan) 20231020_038
+(put in, spatula, pan) 20230930_007
+(put in, spatula, pan) 20231020_024
+(put in, spatula, pan) 20231013_001
+(stir, spoon, bowl) 20231104_202
+(stir, spoon, bowl) 20231105_053
+(stir, spoon, bowl) 20231104_190
+(stir, spoon, bowl) 20231105_054
+(stir, spoon, bowl) 20231104_184
+(stir, spoon, bowl) 20231104_196
+(stir, spoon, bowl) 20231105_019
+(stir, spoon, bowl) 20231105_066
+(skim off, spatula, pan) 20231020_033
+(skim off, spatula, pan) 20230930_008
+(skim off, spatula, pan) 20231020_019
+(skim off, spatula, pan) 20230926_002
+(skim off, spatula, pan) 20231006_003
+(skim off, spatula, pan) 20231015_024
+(skim off, spatula, pan) 20231005_024
+(skim off, spatula, pan) 20231015_031
+(skim off, spatula, pan) 20231020_026
+(skim off, spatula, pan) 20231020_109
+(skim off, spatula, pan) 20231006_024
+(skim off, spatula, pan) 20230930_002
+(skim off, spatula, pan) 20231020_116
+(skim off, spatula, pan) 20231015_010
+(skim off, spatula, pan) 20231006_017
+(skim off, spatula, pan) 20231005_017
+(skim off, spatula, pan) 20231020_102
+(skim off, spatula, pan) 20231006_010
+(measure, ruler, cup) 20231104_115
+(measure, ruler, cup) 20231104_133
+(measure, ruler, cup) 20231104_106
+(measure, ruler, cup) 20231104_131
+(measure, ruler, cup) 20231104_107
+(measure, ruler, cup) 20231104_101
+(measure, ruler, cup) 20231104_132
+(measure, ruler, cup) 20231104_102
+(measure, ruler, cup) 20231104_104
+(measure, ruler, cup) 20231104_103
+(measure, ruler, cup) 20231104_135
+(measure, ruler, cup) 20231104_109
+(measure, ruler, cup) 20231104_136
+(measure, ruler, cup) 20231104_110
+(measure, ruler, cup) 20231104_134
+(measure, ruler, cup) 20231104_108
+(measure, ruler, cup) 20231104_112
+(empty, cup, kettle) 20231031_038
+(empty, cup, kettle) 20231031_030
+(empty, cup, kettle) 20231031_040
+(empty, cup, kettle) 20230929_026
+(empty, cup, kettle) 20231031_032
+(brush, eraser, box) 20231103_097
+(brush, eraser, box) 20231103_070
+(brush, eraser, box) 20231103_074
+(brush, eraser, box) 20231103_094
+(brush, eraser, box) 20231103_078
+(brush, eraser, box) 20231103_088
+(brush, eraser, box) 20231103_095
+(brush, eraser, box) 20231103_096
+(brush, eraser, box) 20231103_086
+(brush, eraser, box) 20231103_076
+(brush, eraser, box) 20231103_072
+(stir, spatula, bowl) 20231024_111
+(stir, spatula, bowl) 20231024_141
+(stir, spatula, bowl) 20231024_117
+(stir, spatula, bowl) 20231024_194
+(stir, spatula, bowl) 20231024_206
+(stir, spatula, bowl) 20231024_123
+(stir, spatula, bowl) 20231024_159
+(stir, spatula, bowl) 20231024_135
+(stir, spatula, bowl) 20231024_171
+(stir, spatula, bowl) 20230930_073
+(stir, spatula, bowl) 20231024_165
+(stir, spatula, bowl) 20231024_177
+(stir, spatula, bowl) 20231024_200
+(stir, spatula, bowl) 20231024_182
+(stir, spatula, bowl) 20231024_129
+(stir, spatula, bowl) 20231024_153
+(stir, spatula, bowl) 20231024_212
+(stir, spatula, bowl) 20231024_147
+(cut, spatula, pan) 20231013_005
+(cut, spatula, pan) 20231020_035
+(cut, spatula, pan) 20231020_118
+(cut, spatula, pan) 20231020_104
+(cut, spatula, pan) 20231020_028
+(cut, spatula, pan) 20231020_042
+(cut, spatula, pan) 20230930_004
+(cut, spatula, pan) 20231020_111
+(cut, spatula, pan) 20231005_026
+(cut, spatula, pan) 20231005_019
+(skim off, spatula, plate) 20231104_139
+(skim off, spatula, plate) 20231005_031
+(skim off, spatula, plate) 20230930_014
+(skim off, spatula, plate) 20231104_153
+(skim off, spatula, plate) 20231104_146
+(skim off, spatula, plate) 20231005_045
+(skim off, spatula, plate) 20231104_167
+(skim off, spatula, plate) 20231005_059
+(skim off, spatula, plate) 20231104_121
+(skim off, spatula, plate) 20231104_160
+(skim off, spatula, plate) 20230927_002
+(skim off, spatula, plate) 20231104_174
+(skim off, spatula, plate) 20230926_004
+(skim off, spatula, plate) 20230930_064
+(skim off, spatula, plate) 20231005_052
+(empty, cup, bowl) 20231006_268
+(empty, cup, bowl) 20231006_276
+(empty, cup, bowl) 20230930_122
+(empty, cup, bowl) 20231006_264
+(empty, cup, bowl) 20231006_280
+(empty, cup, bowl) 20231006_260
+(empty, cup, bowl) 20230928_027
+(brush, roller, pan) 20231013_242
+(brush, roller, pan) 20231019_125
+(brush, roller, pan) 20231019_197
+(brush, roller, pan) 20231019_145
+(brush, roller, pan) 20231019_213
+(brush, roller, pan) 20231019_217
+(brush, roller, pan) 20231019_143
+(brush, roller, pan) 20231019_147
+(brush, roller, pan) 20231019_199
+(brush, roller, pan) 20231019_133
+(brush, roller, pan) 20231019_139
+(brush, roller, pan) 20231019_211
+(brush, roller, pan) 20231019_135
+(brush, roller, pan) 20231019_075
+(brush, roller, pan) 20231019_209
+(brush, roller, pan) 20231019_127
+(brush, roller, pan) 20230927_031
+(brush, roller, pan) 20231019_055
+(brush, roller, pan) 20231019_057
+(brush, roller, pan) 20231013_206
+(brush, roller, pan) 20231019_141
+(brush, roller, pan) 20231019_205
+(brush, roller, pan) 20231019_201
+(brush, roller, pan) 20231019_129
+(brush, roller, pan) 20231019_131
+(brush, roller, pan) 20231013_180
+(brush, roller, pan) 20231013_176
+(brush, roller, pan) 20231019_071
+(brush, roller, pan) 20231019_219
+(brush, roller, pan) 20231019_207
+(brush, roller, pan) 20231019_065
+(brush, roller, pan) 20231019_067
+(brush, roller, pan) 20231013_170
+(brush, roller, pan) 20231019_069
+(brush, roller, pan) 20231019_215
+(brush, roller, pan) 20231019_053
+(brush, roller, pan) 20231019_059
+(brush, roller, pan) 20230928_042
+(brush, roller, pan) 20231013_250
+(brush, roller, pan) 20231013_252
+(brush, roller, pan) 20231019_061
+(dust, brush, box) 20231103_189
+(dust, brush, box) 20230928_047
+(dust, brush, box) 20231006_164
+(dust, brush, box) 20230930_039
+(dust, brush, box) 20231005_211
+(dust, brush, box) 20231005_203
+(dust, brush, box) 20230927_030
+(dust, brush, box) 20231006_158
+(dust, brush, box) 20231005_213
+(dust, brush, box) 20230930_035
+(dust, brush, box) 20230930_037
+(dust, brush, box) 20231103_190
+(dust, brush, box) 20231006_162
+(dust, brush, box) 20231005_201
+(dust, brush, box) 20230930_033
+(dust, brush, box) 20231005_209
+(dust, brush, box) 20230930_031
+(dust, brush, box) 20231005_207
+(empty, cup, plate) 20230928_031
+(dust, brush, kettle) 20231103_156
+(dust, brush, kettle) 20230930_041
+(dust, brush, kettle) 20231006_170
+(dust, brush, kettle) 20231103_194
+(dust, brush, kettle) 20231103_160
+(dust, brush, kettle) 20231103_196
+(dust, brush, kettle) 20231103_158
+(dust, brush, kettle) 20231006_214
+(dust, brush, kettle) 20231006_166
+(dust, brush, kettle) 20231103_169
+(dust, brush, kettle) 20230930_045
+(dust, brush, kettle) 20231006_210
+(dust, brush, kettle) 20231103_195
+(dust, brush, kettle) 20231103_162
+(dust, brush, kettle) 20231005_223
+(dust, brush, kettle) 20231005_217
+(dust, brush, kettle) 20231005_221
+(dust, brush, kettle) 20231103_154
+(dust, brush, kettle) 20231103_193
+(dust, brush, kettle) 20231005_219
+(dust, brush, kettle) 20230930_047
+(dust, brush, kettle) 20231103_192
+(dust, brush, kettle) 20231006_172
+(dust, brush, kettle) 20230930_043
+(dust, brush, kettle) 20231103_191
+(stir, spatula, pan) 20231013_014
+(stir, spatula, pan) 20231020_030
+(stir, spatula, pan) 20231020_037
+(stir, spatula, pan) 20231020_120
+(stir, spatula, pan) 20231020_023
+(stir, spatula, pan) 20231013_007
+(stir, spatula, pan) 20231020_113
+(stir, spatula, pan) 20231006_007
+(stir, spatula, pan) 20231020_044
+(stir, spatula, pan) 20230930_006
+(stir, spatula, pan) 20231020_106
+(stir, spatula, pan) 20231005_028
+(scrape off, knife, plate) 20231015_248
+(scrape off, knife, plate) 20231013_076
+(scrape off, knife, plate) 20231015_266
+(scrape off, knife, plate) 20231013_074
+(scrape off, knife, plate) 20231013_096
+(scrape off, knife, plate) 20231013_100
+(scrape off, knife, plate) 20231015_260
+(scrape off, knife, plate) 20231013_072
+(scrape off, knife, plate) 20231013_062
+(scrape off, knife, plate) 20231013_084
+(scrape off, knife, plate) 20231015_298
+(scrape off, knife, plate) 20231015_242
+(scrape off, knife, plate) 20231015_216
+(scrape off, knife, plate) 20231020_214
+(scrape off, knife, plate) 20231015_300
+(scrape off, knife, plate) 20231015_290
+(scrape off, knife, plate) 20231015_256
+(scrape off, knife, plate) 20231013_080
+(scrape off, knife, plate) 20231020_230
+(scrape off, knife, plate) 20231015_272
+(scrape off, knife, plate) 20231015_246
+(scrape off, knife, plate) 20231015_258
+(scrape off, knife, plate) 20231015_252
+(scrape off, knife, plate) 20231015_294
+(scrape off, knife, plate) 20231013_044
+(scrape off, knife, plate) 20231020_206
+(scrape off, knife, plate) 20231015_254
+(scrape off, knife, plate) 20231015_276
+(scrape off, knife, plate) 20231013_106
+(scrape off, knife, plate) 20231020_192
+(scrape off, knife, plate) 20231020_232
+(scrape off, knife, plate) 20231020_188
+(scrape off, knife, plate) 20231020_228
+(scrape off, knife, plate) 20231020_224
+(scrape off, knife, plate) 20231013_090
+(scrape off, knife, plate) 20231013_068
+(scrape off, knife, plate) 20231013_046
+(scrape off, knife, plate) 20231015_278
+(scrape off, knife, plate) 20231015_280
+(scrape off, knife, plate) 20231015_236
+(scrape off, knife, plate) 20231020_218
+(scrape off, knife, plate) 20231020_216
+(scrape off, knife, plate) 20231013_048
+(scrape off, knife, plate) 20231013_070
+(scrape off, knife, plate) 20231013_066
+(scrape off, knife, plate) 20231015_240
+(scrape off, knife, plate) 20231015_250
+(scrape off, knife, plate) 20231020_194
+(scrape off, knife, plate) 20231013_052
+(scrape off, knife, plate) 20231013_104
+(scrape off, knife, plate) 20231013_092
+(scrape off, knife, plate) 20231015_238
+(scrape off, knife, plate) 20231015_282
+(scrape off, knife, plate) 20231013_082
+(scrape off, knife, plate) 20231015_218
+(scrape off, knife, plate) 20231013_038
+(scrape off, knife, plate) 20231015_214
+(scrape off, knife, plate) 20231015_208
+(scrape off, knife, plate) 20231020_226
+(scrape off, knife, plate) 20231015_288
+(scrape off, knife, plate) 20231015_210
+(scrape off, knife, plate) 20231020_202
+(scrape off, knife, plate) 20231015_212
+(scrape off, knife, plate) 20231013_086
+(scrape off, knife, plate) 20231013_042
+(scrape off, knife, plate) 20231013_088
+(scrape off, knife, plate) 20231013_056
+(scrape off, knife, plate) 20231015_268
+(scrape off, knife, plate) 20231020_220
+(scrape off, knife, plate) 20231020_210
+(scrape off, knife, plate) 20231015_264
+(scrape off, knife, plate) 20231020_208
+(scrape off, knife, plate) 20231020_212
+(scrape off, knife, plate) 20231015_292
+(scrape off, knife, plate) 20230926_039
+(scrape off, knife, plate) 20231020_196
+(scrape off, knife, plate) 20231013_078
+(scrape off, knife, plate) 20231013_094
+(scrape off, knife, plate) 20231015_296
+(scrape off, knife, plate) 20230926_038
+(scrape off, knife, plate) 20230926_034
+(scrape off, knife, plate) 20231015_244
+(scrape off, knife, plate) 20231013_060
+(scrape off, knife, plate) 20231013_098
+(scrape off, knife, plate) 20231013_054
+(scrape off, knife, plate) 20231013_064
+(scrape off, knife, plate) 20231013_050
+(scrape off, knife, plate) 20231013_058
+(scrape off, knife, plate) 20231015_220
+(scrape off, knife, plate) 20230929_006
+(scrape off, knife, plate) 20231020_204
+(scrape off, knife, plate) 20231013_108
+(scrape off, knife, plate) 20231020_190
+(scrape off, knife, plate) 20231020_222
+(scrape off, knife, plate) 20230929_002
+(scrape off, knife, plate) 20231020_200
+(scrape off, knife, plate) 20231015_262
+(scrape off, knife, plate) 20231015_302
+(scrape off, knife, plate) 20231020_234
+(scrape off, knife, plate) 20231015_274
+(scrape off, knife, plate) 20231020_198
+(skim off, spoon, plate) 20231024_096
+(skim off, spoon, plate) 20231024_102
+(skim off, spoon, plate) 20231024_075
+(skim off, spoon, plate) 20231024_021
+(skim off, spoon, plate) 20231024_045
+(skim off, spoon, plate) 20231024_039
+(skim off, spoon, plate) 20231024_063
+(skim off, spoon, plate) 20231024_069
+(skim off, spoon, plate) 20231024_081
+(skim off, spoon, plate) 20231024_009
+(skim off, spoon, plate) 20231024_015
+(skim off, spoon, plate) 20231024_033
+(skim off, spoon, plate) 20231024_051
+(skim off, spoon, plate) 20231024_027
+(skim off, spoon, plate) 20231024_003
+(skim off, spoon, plate) 20231024_091
+(skim off, spoon, plate) 20231024_085
+(skim off, spoon, plate) 20231024_057
+(empty, kettle, teapot) 20231031_115
+(empty, kettle, teapot) 20231031_107
+(empty, kettle, teapot) 20231031_109
+(empty, kettle, teapot) 20231031_117
+(screw, screwdriver, toy) 20231102_068
+(screw, screwdriver, toy) 20231102_065
+(screw, screwdriver, toy) 20231102_066
+(screw, screwdriver, toy) 20231102_067
+(screw, screwdriver, toy) 20231102_063
+(screw, screwdriver, toy) 20231102_064
+(empty, bowl, bowl) 20230927_022
+(empty, bowl, bowl) 20231013_134
+(empty, bowl, bowl) 20231013_114
+(empty, bowl, bowl) 20231013_119
+(empty, bowl, bowl) 20231013_159
+(empty, bowl, bowl) 20231013_164
+(empty, bowl, bowl) 20231013_139
+(brush, roller, box) 20231104_005
+(brush, roller, box) 20231013_316
+(brush, roller, box) 20231013_304
+(brush, roller, box) 20231104_001
+(brush, roller, box) 20231104_021
+(brush, roller, box) 20231104_007
+(brush, roller, box) 20231104_009
+(brush, roller, box) 20231104_011
+(brush, roller, box) 20231104_017
+(brush, roller, box) 20231104_019
+(brush, roller, box) 20231104_013
+(brush, roller, box) 20231013_312
+(brush, roller, box) 20231104_015
+(brush, roller, box) 20230928_053
+(brush, roller, box) 20231013_302
+(brush, roller, box) 20231104_003
+(brush, roller, box) 20231104_023
+(cut, knife, plate) 20231020_219
+(cut, knife, plate) 20231013_083
+(cut, knife, plate) 20231015_239
+(cut, knife, plate) 20231015_281
+(cut, knife, plate) 20231013_093
+(cut, knife, plate) 20231015_285
+(cut, knife, plate) 20230926_037
+(cut, knife, plate) 20231020_197
+(cut, knife, plate) 20231015_291
+(cut, knife, plate) 20231015_243
+(cut, knife, plate) 20231015_303
+(cut, knife, plate) 20231020_211
+(cut, knife, plate) 20231020_201
+(cut, knife, plate) 20231015_295
+(cut, knife, plate) 20231013_099
+(cut, knife, plate) 20231013_067
+(cut, knife, plate) 20231013_085
+(cut, knife, plate) 20231020_209
+(cut, knife, plate) 20231015_275
+(cut, knife, plate) 20231015_265
+(cut, knife, plate) 20231020_233
+(cut, knife, plate) 20231015_245
+(cut, knife, plate) 20230926_041
+(cut, knife, plate) 20231013_065
+(cut, knife, plate) 20231013_073
+(cut, knife, plate) 20231015_263
+(cut, knife, plate) 20231015_259
+(cut, knife, plate) 20231013_049
+(cut, knife, plate) 20231013_075
+(cut, knife, plate) 20231013_087
+(cut, knife, plate) 20231020_203
+(cut, knife, plate) 20231015_277
+(cut, knife, plate) 20231015_269
+(cut, knife, plate) 20231020_213
+(cut, knife, plate) 20231015_247
+(cut, knife, plate) 20231020_231
+(cut, knife, plate) 20231013_109
+(cut, knife, plate) 20231020_205
+(cut, knife, plate) 20231013_091
+(cut, knife, plate) 20231015_217
+(cut, knife, plate) 20231013_101
+(cut, knife, plate) 20231020_223
+(cut, knife, plate) 20231013_047
+(cut, knife, plate) 20230929_003
+(cut, knife, plate) 20231020_199
+(cut, knife, plate) 20231013_107
+(cut, knife, plate) 20231020_195
+(cut, knife, plate) 20231013_105
+(cut, knife, plate) 20231020_193
+(cut, knife, plate) 20231013_043
+(cut, knife, plate) 20231015_267
+(cut, knife, plate) 20231015_261
+(cut, knife, plate) 20231013_097
+(cut, knife, plate) 20231015_293
+(cut, knife, plate) 20231020_215
+(cut, knife, plate) 20231013_077
+(cut, knife, plate) 20231013_051
+(cut, knife, plate) 20231015_237
+(cut, knife, plate) 20231015_235
+(cut, knife, plate) 20231015_219
+(cut, knife, plate) 20231013_053
+(cut, knife, plate) 20231013_069
+(cut, knife, plate) 20231015_249
+(cut, knife, plate) 20231013_089
+(cut, knife, plate) 20231013_059
+(cut, knife, plate) 20231015_257
+(cut, knife, plate) 20231013_081
+(cut, knife, plate) 20230929_005
+(cut, knife, plate) 20231013_063
+(cut, knife, plate) 20231015_241
+(cut, knife, plate) 20231015_251
+(cut, knife, plate) 20231015_279
+(cut, knife, plate) 20230926_040
+(cut, knife, plate) 20231013_061
+(cut, knife, plate) 20231015_283
+(cut, knife, plate) 20231020_221
+(cut, knife, plate) 20231020_229
+(cut, knife, plate) 20231015_289
+(cut, knife, plate) 20231015_211
+(cut, knife, plate) 20231013_045
+(cut, knife, plate) 20231013_071
+(cut, knife, plate) 20231015_253
+(cut, knife, plate) 20231020_189
+(cut, knife, plate) 20231015_297
+(cut, knife, plate) 20231015_209
+(cut, knife, plate) 20231020_191
+(cut, knife, plate) 20231015_255
+(cut, knife, plate) 20231015_301
+(cut, knife, plate) 20231015_299
+(cut, knife, plate) 20231020_225
+(cut, knife, plate) 20231013_095
+(cut, knife, plate) 20231013_079
+(cut, knife, plate) 20231015_215
+(cut, knife, plate) 20231013_039
+(cut, knife, plate) 20231020_217
+(cut, knife, plate) 20231013_057
+(cut, knife, plate) 20231020_227
+(pour in some, kettle, teapot) 20231031_108
+(pour in some, kettle, teapot) 20231031_114
+(pour in some, kettle, teapot) 20231031_106
+(pour in some, kettle, teapot) 20231031_116
+(scrape off, spoon, plate) 20231024_052
+(scrape off, spoon, plate) 20231024_064
+(scrape off, spoon, plate) 20231024_097
+(scrape off, spoon, plate) 20231024_046
+(scrape off, spoon, plate) 20231024_034
+(scrape off, spoon, plate) 20231024_103
+(scrape off, spoon, plate) 20231024_004
+(scrape off, spoon, plate) 20230926_032
+(scrape off, spoon, plate) 20231024_070
+(scrape off, spoon, plate) 20231024_010
+(scrape off, spoon, plate) 20231024_086
+(scrape off, spoon, plate) 20231024_022
+(scrape off, spoon, plate) 20230926_030
+(scrape off, spoon, plate) 20231024_082
+(scrape off, spoon, plate) 20231024_092
+(scrape off, spoon, plate) 20231024_028
+(scrape off, spoon, plate) 20231024_076
+(scrape off, spoon, plate) 20231024_016
+(scrape off, spoon, plate) 20231024_058
+(scrape off, spoon, plate) 20231024_040
+(pour in some, teapot, teapot) 20231031_122
+(pour in some, teapot, teapot) 20231031_124
+(pour in some, teapot, teapot) 20231031_120
+(pour in some, teapot, teapot) 20231031_118
+(empty, box, plate) 20231027_177
+(empty, box, plate) 20231027_171
+(empty, box, plate) 20231027_165
+(empty, box, plate) 20230927_048
+(empty, box, plate) 20231027_161
+(empty, box, plate) 20231027_159
+(empty, box, plate) 20231027_153
+(empty, box, plate) 20231027_151
+(empty, box, plate) 20231027_163
+(empty, box, plate) 20231027_157
+(empty, box, plate) 20230928_037
+(empty, box, plate) 20231027_155
+(brush, brush, toy) 20231027_022
+(brush, brush, toy) 20231027_021
+(brush, brush, toy) 20231027_023
+(brush, brush, toy) 20231027_025
+(brush, brush, toy) 20230919_038
+(brush, brush, toy) 20231027_026
+(brush, brush, toy) 20231027_024
+(pour in some, cup, bowl) 20231006_263
+(pour in some, cup, bowl) 20230928_026
+(pour in some, cup, bowl) 20230930_121
+(pour in some, cup, bowl) 20231006_279
+(pour in some, cup, bowl) 20230929_029
+(pour in some, cup, bowl) 20231006_275
+(pour in some, cup, bowl) 20230930_129
+(pour in some, cup, bowl) 20231006_267
+(empty, kettle, cup) 20231031_026
+(empty, kettle, cup) 20231031_028
+(empty, kettle, cup) 20231031_036
+(empty, kettle, cup) 20231031_034
+(pour in some, kettle, kettle) 20231031_009
+(pour in some, kettle, kettle) 20231031_007
+(pour in some, kettle, kettle) 20231031_015
+(pour in some, kettle, kettle) 20231031_019
+(pour in some, kettle, kettle) 20231031_023
+(pour in some, kettle, kettle) 20231031_011
+(pour in some, kettle, kettle) 20231031_017
+(pour in some, kettle, kettle) 20231031_013
+(pour in some, kettle, kettle) 20231031_005
+(pour in some, kettle, kettle) 20231031_001
+(pour in some, kettle, kettle) 20231031_003
+(pour in some, kettle, kettle) 20230926_047
+(pour in some, kettle, kettle) 20231031_021
+(pour in some, teapot, cup) 20230927_039
+(stir-fry, spatula, plate) 20231104_128
+(stir-fry, spatula, plate) 20231104_142
+(stir-fry, spatula, plate) 20231015_115
+(stir-fry, spatula, plate) 20230930_067
+(stir-fry, spatula, plate) 20231104_149
+(stir-fry, spatula, plate) 20231104_177
+(stir-fry, spatula, plate) 20231104_163
+(stir-fry, spatula, plate) 20230927_005
+(stir-fry, spatula, plate) 20231104_127
+(stir-fry, spatula, plate) 20231104_156
+(stir-fry, spatula, plate) 20231104_170
+(dust, roller, box) 20231104_018
+(dust, roller, box) 20231013_317
+(dust, roller, box) 20231013_313
+(dust, roller, box) 20231104_002
+(dust, roller, box) 20231104_006
+(dust, roller, box) 20231013_305
+(dust, roller, box) 20231104_022
+(dust, roller, box) 20231013_309
+(dust, roller, box) 20231104_010
+(dust, roller, box) 20231104_004
+(dust, roller, box) 20231013_303
+(dust, roller, box) 20231104_020
+(dust, roller, box) 20231104_016
+(dust, roller, box) 20231104_008
+(dust, roller, box) 20231104_024
+(dust, roller, box) 20231104_012
+(dust, roller, box) 20231104_014
+(put in, spatula, plate) 20231104_137
+(put in, spatula, plate) 20231005_050
+(put in, spatula, plate) 20231005_043
+(put in, spatula, plate) 20230930_063
+(put in, spatula, plate) 20230926_003
+(put in, spatula, plate) 20231005_036
+(put in, spatula, plate) 20231015_117
+(put in, spatula, plate) 20231104_118
+(put in, spatula, plate) 20231104_144
+(put in, spatula, plate) 20230927_001
+(put in, spatula, plate) 20231005_029
+(put in, spatula, plate) 20231104_158
+(put in, spatula, plate) 20231104_117
+(cut, spoon, bowl) 20231105_030
+(cut, spoon, bowl) 20231027_088
+(cut, spoon, bowl) 20231104_189
+(cut, spoon, bowl) 20231105_017
+(cut, spoon, bowl) 20231027_085
+(cut, spoon, bowl) 20231105_052
+(cut, spoon, bowl) 20231104_201
+(cut, spoon, bowl) 20231104_183
+(cut, spoon, bowl) 20231027_083
+(cut, spoon, bowl) 20231105_018
+(cut, spoon, bowl) 20231027_087
+(cut, spoon, bowl) 20231027_086
+(cut, spoon, bowl) 20231105_064
+(cut, spoon, bowl) 20231027_084
+(pour in some, kettle, cup) 20231031_025
+(pour in some, kettle, cup) 20230917_042
+(pour in some, kettle, cup) 20231031_035
+(pour in some, kettle, cup) 20231031_033
+(pour in some, kettle, cup) 20231031_027
+(pour in some, kettle, cup) 20230929_027
+(pour in some, kettle, plate) 20231031_073
+(pour in some, kettle, plate) 20230930_145
+(pour in some, kettle, plate) 20231031_065
+(pour in some, kettle, plate) 20230930_147
+(pour in some, kettle, plate) 20231031_067
+(pour in some, kettle, plate) 20231031_057
+(pour in some, kettle, plate) 20230930_149
+(pour in some, kettle, plate) 20231031_059
+(pour in some, kettle, plate) 20231031_071
+(pour in some, kettle, plate) 20231031_069
+(pour in some, kettle, plate) 20231031_075
+(pour in some, kettle, plate) 20230930_151
+(pour in some, kettle, plate) 20231031_061
+(pour in some, plate, bowl) 20230930_139
+(pour in some, plate, bowl) 20230930_135
+(smear, eraser, bowl) 20231104_026
+(smear, eraser, bowl) 20231104_029
+(smear, eraser, bowl) 20231104_036
+(smear, eraser, bowl) 20231104_041
+(smear, eraser, bowl) 20231104_037
+(smear, eraser, bowl) 20231104_043
+(smear, eraser, bowl) 20231104_034
+(smear, eraser, bowl) 20231104_031
+(smear, eraser, bowl) 20231104_040
+(smear, eraser, bowl) 20231104_033
+(smear, eraser, bowl) 20231104_030
+(smear, eraser, bowl) 20231104_044
+(smear, eraser, bowl) 20231104_042
+(smear, eraser, bowl) 20231104_032
+(smear, eraser, bowl) 20231104_028
+(smear, eraser, bowl) 20231104_027
+(smear, eraser, bowl) 20231104_035
+(smear, eraser, bowl) 20231104_038
+(dust, roller, bowl) 20231103_210
+(dust, roller, bowl) 20231013_289
+(dust, roller, bowl) 20231103_202
+(dust, roller, bowl) 20231013_281
+(dust, roller, bowl) 20231013_287
+(dust, roller, bowl) 20231013_299
+(dust, roller, bowl) 20231103_204
+(dust, roller, bowl) 20231103_216
+(dust, roller, bowl) 20230927_036
+(dust, roller, bowl) 20231103_198
+(dust, roller, bowl) 20231103_206
+(dust, roller, bowl) 20231103_214
+(dust, roller, bowl) 20231013_297
+(dust, roller, bowl) 20231103_212
+(dust, roller, bowl) 20231013_279
+(dust, roller, bowl) 20231013_293
+(dust, roller, bowl) 20231103_208
+(dust, roller, bowl) 20231103_200
+(brush, brush, pan) 20230927_023
+(brush, brush, pan) 20230926_044
+(brush, brush, pan) 20230926_045
+(brush, brush, pan) 20230928_048
+(brush, brush, pan) 20231103_172
+(empty, kettle, kettle) 20231031_004
+(empty, kettle, kettle) 20231031_022
+(empty, kettle, kettle) 20231031_016
+(empty, kettle, kettle) 20231031_006
+(empty, kettle, kettle) 20231031_014
+(empty, kettle, kettle) 20230926_048
+(empty, kettle, kettle) 20231031_024
+(empty, kettle, kettle) 20231031_002
+(empty, kettle, kettle) 20231031_010
+(empty, kettle, kettle) 20231031_020
+(empty, kettle, kettle) 20231031_008
+(empty, kettle, kettle) 20231031_018
+(empty, kettle, kettle) 20231031_012
+(hit, hammer, helmet) 20231002_063
+(hit, hammer, helmet) 20231002_062
+(dust, brush, pan) 20230927_024
+(dust, brush, pan) 20231103_180
+(dust, brush, pan) 20230926_042
+(dust, brush, pan) 20231103_173
+(dust, brush, pan) 20231103_174
+(dust, brush, pan) 20231103_179
+(dust, brush, pan) 20230928_049
+(pour in some, cup, cup) 20231005_258
+(brush, brush, box) 20231006_163
+(brush, brush, box) 20231006_157
+(brush, brush, box) 20230928_046
+(brush, brush, box) 20230927_029
+(brush, brush, box) 20231006_155
+(brush, brush, box) 20231005_200
+(brush, brush, box) 20230930_034
+(brush, brush, box) 20230930_038
+(cut, knife, pan) 20231020_252
+(cut, knife, pan) 20231020_247
+(cut, knife, pan) 20231020_248
+(cut, knife, pan) 20231020_249
+(cut, knife, pan) 20231020_236
+(cut, knife, pan) 20231020_237
+(cut, knife, pan) 20231020_245
+(cut, knife, pan) 20231020_244
+(cut, knife, pan) 20231020_240
+(cut, knife, pan) 20231020_246
+(cut, knife, pan) 20231020_239
+(cut, knife, pan) 20231020_251
+(cut, knife, pan) 20231020_250
+(cut, knife, pan) 20231020_241
+(pour in some, bowl, cup) 20230930_123
+(pour in some, bowl, cup) 20230929_031
+(pour in some, bowl, cup) 20231006_265
+(pour in some, bowl, cup) 20230928_028
+(pour in some, bowl, cup) 20231006_261
+(pour in some, bowl, cup) 20231006_277
+(put out, spoon, pan) 20231020_157
+(put out, spoon, pan) 20231020_046
+(put out, spoon, pan) 20231005_107
+(put out, spoon, pan) 20231020_081
+(put out, spoon, pan) 20231015_072
+(put out, spoon, pan) 20231020_067
+(put out, spoon, pan) 20231020_143
+(put out, spoon, pan) 20231006_037
+(put out, spoon, pan) 20231015_065
+(put out, spoon, pan) 20231020_074
+(put out, spoon, pan) 20231006_051
+(put out, spoon, pan) 20231020_060
+(put out, spoon, pan) 20231006_044
+(put out, spoon, pan) 20231020_053
+(put out, spoon, pan) 20231020_164
+(put out, spoon, pan) 20231015_139
+(put out, spoon, pan) 20231015_153
+(put out, spoon, pan) 20231020_150
+(put out, spoon, bowl) 20231105_011
+(put out, spoon, bowl) 20231105_045
+(put out, spoon, bowl) 20231105_024
+(put out, spoon, bowl) 20231105_012
+(put out, spoon, bowl) 20231005_128
+(put out, spoon, bowl) 20231105_046
+(put out, spoon, bowl) 20231104_186
+(put out, spoon, bowl) 20231104_192
+(put out, spoon, bowl) 20231104_198
+(put out, spoon, bowl) 20231105_023
+(put out, spoon, bowl) 20231105_058
+(put out, spoon, bowl) 20231105_003
+(put out, spoon, bowl) 20231005_114
+(put out, spoon, bowl) 20231105_068
+(put out, spoon, bowl) 20231105_004
+(put out, spoon, bowl) 20231104_180
+(pour in some, bowl, bowl) 20231013_158
+(pour in some, bowl, bowl) 20231013_163
+(pour in some, bowl, bowl) 20231013_138
+(pour in some, bowl, bowl) 20230927_021
+(pour in some, bowl, bowl) 20231013_118
+(pour in some, plate, box) 20230928_034
+(pour in some, plate, box) 20230927_049
+(pour in some, teapot, plate) 20231031_085
+(pour in some, teapot, plate) 20231031_087
+(pour in some, teapot, plate) 20231031_096
+(pour in some, teapot, plate) 20231031_083
+(pour in some, teapot, plate) 20231031_077
+(pour in some, teapot, plate) 20231031_081
+(pour in some, teapot, plate) 20231031_092
+(pour in some, teapot, plate) 20231031_098
+(pour in some, teapot, plate) 20231031_091
+(pour in some, teapot, plate) 20231031_094
+(pour in some, teapot, plate) 20231031_089
+(empty, kettle, plate) 20230930_152
+(empty, kettle, plate) 20231031_060
+(empty, kettle, plate) 20231031_066
+(empty, kettle, plate) 20231031_072
+(empty, kettle, plate) 20231031_064
+(empty, kettle, plate) 20231031_062
+(empty, kettle, plate) 20231031_076
+(empty, kettle, plate) 20231031_074
+(empty, kettle, plate) 20231031_068
+(empty, kettle, plate) 20231031_070
+(empty, kettle, plate) 20231031_058
+(smear, eraser, box) 20231103_073
+(smear, eraser, box) 20231103_075
+(smear, eraser, box) 20231103_077
+(smear, eraser, box) 20231103_087
+(smear, eraser, box) 20231103_079
+(smear, eraser, box) 20231103_071
+(smear, eraser, box) 20231103_089
+(empty, teapot, cup) 20230927_040
+(cut, spoon, plate) 20231027_097
+(cut, spoon, plate) 20231024_098
+(cut, spoon, plate) 20231024_041
+(cut, spoon, plate) 20231027_096
+(cut, spoon, plate) 20231027_092
+(cut, spoon, plate) 20231027_089
+(cut, spoon, plate) 20231024_047
+(cut, spoon, plate) 20231027_106
+(cut, spoon, plate) 20231024_077
+(cut, spoon, plate) 20231027_113
+(cut, spoon, plate) 20231027_104
+(cut, spoon, plate) 20231027_108
+(cut, spoon, plate) 20231027_100
+(cut, spoon, plate) 20231024_059
+(cut, spoon, plate) 20231024_087
+(cut, spoon, plate) 20231027_107
+(cut, spoon, plate) 20231024_011
+(cut, spoon, plate) 20231024_065
+(cut, spoon, plate) 20231027_090
+(cut, spoon, plate) 20231027_112
+(cut, spoon, plate) 20231027_101
+(cut, spoon, plate) 20231024_005
+(cut, spoon, plate) 20231024_029
+(cut, spoon, plate) 20231024_053
+(cut, spoon, plate) 20231027_094
+(cut, spoon, plate) 20231027_099
+(cut, spoon, plate) 20231027_110
+(cut, spoon, plate) 20231027_111
+(cut, spoon, plate) 20231024_104
+(cut, spoon, plate) 20231027_114
+(cut, spoon, plate) 20231024_035
+(cut, spoon, plate) 20231024_017
+(cut, spoon, plate) 20231024_071
+(cut, spoon, plate) 20231027_109
+(cut, spoon, plate) 20231027_105
+(cut, spoon, plate) 20231027_095
+(cut, spoon, plate) 20231027_098
+(cut, spoon, plate) 20231027_093
+(cut, spoon, plate) 20231024_024
+(cut, spoon, plate) 20231027_102
+(cut, spoon, plate) 20231027_103
+(cut, spoon, plate) 20231027_091
+(put in, bowl, pan) 20231020_090
+(put in, bowl, pan) 20230929_013
+(put in, bowl, pan) 20231020_179
+(put in, bowl, pan) 20230926_014
+(put in, bowl, pan) 20231020_097
+(put in, bowl, pan) 20231020_182
+(put in, bowl, pan) 20231020_093
+(put in, bowl, pan) 20231020_094
+(put in, bowl, pan) 20231020_173
+(put in, bowl, pan) 20231020_170
+(put in, bowl, pan) 20231013_029
+(put in, bowl, pan) 20231013_035
+(put in, bowl, pan) 20230929_019
+(put in, bowl, pan) 20230929_017
+(put in, bowl, pan) 20230929_015
+(put in, bowl, pan) 20231020_185
+(put in, bowl, pan) 20231013_032
+(put in, bowl, pan) 20230927_013
+(put in, bowl, pan) 20231020_087
+(put in, bowl, pan) 20231020_176
+(put in, bowl, pan) 20231015_090
+(put in, bowl, pan) 20231015_093
+(brush, brush, kettle) 20230930_044
+(brush, brush, kettle) 20231103_155
+(brush, brush, kettle) 20231103_168
+(brush, brush, kettle) 20231006_213
+(brush, brush, kettle) 20231103_163
+(brush, brush, kettle) 20231103_159
+(brush, brush, kettle) 20231103_157
+(brush, brush, kettle) 20231103_153
+(brush, brush, kettle) 20231103_166
+(brush, brush, kettle) 20230930_040
+(brush, brush, kettle) 20231006_171
+(brush, brush, kettle) 20231006_207
+(brush, brush, kettle) 20231006_169
+(brush, brush, kettle) 20231103_161
+(brush, brush, kettle) 20231006_165
+(empty, box, cup) 20231010_177
+(brush, brush, cup) 20231026_014
+(brush, brush, cup) 20231026_002
+(brush, brush, cup) 20231026_020
+(brush, brush, cup) 20231026_005
+(brush, brush, cup) 20231026_011
+(brush, brush, cup) 20231026_001
+(brush, brush, cup) 20231026_012
+(brush, brush, cup) 20231026_003
+(brush, brush, cup) 20231026_013
+(brush, brush, cup) 20231026_007
+(brush, brush, cup) 20231026_017
+(brush, brush, cup) 20231026_006
+(brush, brush, cup) 20231026_008
+(empty, bowl, kettle) 20231019_030
+(empty, bowl, kettle) 20231019_008
+(empty, bowl, kettle) 20231019_006
+(empty, bowl, kettle) 20231031_046
+(empty, bowl, kettle) 20231019_016
+(empty, bowl, kettle) 20231019_032
+(empty, bowl, kettle) 20231031_048
+(empty, bowl, kettle) 20231031_056
+(empty, bowl, kettle) 20231019_024
+(empty, bowl, kettle) 20231019_014
+(empty, bowl, kettle) 20231019_022
+(empty, bowl, kettle) 20231031_054
+(put out, spatula, bowl) 20231024_173
+(put out, spatula, bowl) 20231024_149
+(put out, spatula, bowl) 20231024_125
+(put out, spatula, bowl) 20231024_119
+(put out, spatula, bowl) 20231006_030
+(put out, spatula, bowl) 20231024_167
+(put out, spatula, bowl) 20231024_113
+(put out, spatula, bowl) 20231024_143
+(put out, spatula, bowl) 20231024_155
+(put out, spatula, bowl) 20231024_184
+(put out, spatula, bowl) 20231024_196
+(put out, spatula, bowl) 20231024_179
+(put out, spatula, bowl) 20231024_161
+(put out, spatula, bowl) 20231024_137
+(put out, spatula, bowl) 20231024_208
+(put out, spatula, bowl) 20231024_131
+(put out, spatula, bowl) 20231024_107
+(put out, spatula, bowl) 20231005_065
+(skim off, bowl, plate) 20230928_020
+(skim off, bowl, plate) 20231024_250
+(skim off, bowl, plate) 20231024_286
+(skim off, bowl, plate) 20230927_016
+(skim off, bowl, plate) 20231024_240
+(skim off, bowl, plate) 20231024_296
+(skim off, bowl, plate) 20231024_276
+(skim off, bowl, plate) 20231024_281
+(skim off, bowl, plate) 20231024_235
+(skim off, bowl, plate) 20231024_230
+(skim off, bowl, plate) 20231024_255
+(skim off, bowl, plate) 20231024_220
+(skim off, bowl, plate) 20231024_245
+(skim off, bowl, plate) 20231024_215
+(skim off, bowl, plate) 20231024_225
+(skim off, bowl, plate) 20231024_291
+(skim off, bowl, plate) 20231024_301
+(put in, spatula, bowl) 20230926_005
+(put in, spatula, bowl) 20231024_142
+(put in, spatula, bowl) 20231024_130
+(put in, spatula, bowl) 20231024_118
+(put in, spatula, bowl) 20230930_069
+(put in, spatula, bowl) 20231024_166
+(put in, spatula, bowl) 20231024_189
+(put in, spatula, bowl) 20231024_136
+(put in, spatula, bowl) 20231024_178
+(put in, spatula, bowl) 20231024_183
+(put in, spatula, bowl) 20231024_195
+(put in, spatula, bowl) 20231024_112
+(put in, spatula, bowl) 20231005_064
+(put in, spatula, bowl) 20231024_172
+(put in, spatula, bowl) 20231024_207
+(put in, spatula, bowl) 20231024_106
+(put in, spatula, bowl) 20231024_154
+(put in, spatula, bowl) 20231024_160
+(put in, spatula, bowl) 20231024_124
+(dust, roller, kettle) 20231103_124
+(dust, roller, kettle) 20231103_114
+(dust, roller, kettle) 20231103_134
+(dust, roller, kettle) 20231103_136
+(dust, roller, kettle) 20231103_152
+(dust, roller, kettle) 20231103_140
+(dust, roller, kettle) 20231103_118
+(dust, roller, kettle) 20231103_148
+(dust, roller, kettle) 20231103_116
+(dust, roller, kettle) 20231103_144
+(dust, roller, kettle) 20231103_150
+(dust, roller, kettle) 20231103_142
+(dust, roller, kettle) 20231103_138
+(dust, roller, kettle) 20231103_132
+(dust, roller, kettle) 20231103_130
+(dust, brush, plate) 20231006_124
+(dust, brush, plate) 20230929_036
+(dust, brush, plate) 20230928_045
+(dust, brush, plate) 20231006_130
+(dust, brush, plate) 20231006_120
+(dust, brush, plate) 20230927_026
+(dust, brush, plate) 20230928_051
+(dust, brush, plate) 20230929_038
+(dust, brush, plate) 20231005_185
+(dust, brush, plate) 20231006_132
+(brush, roller, kettle) 20231103_139
+(brush, roller, kettle) 20231103_117
+(brush, roller, kettle) 20231103_131
+(brush, roller, kettle) 20231103_113
+(brush, roller, kettle) 20231103_149
+(brush, roller, kettle) 20231103_141
+(brush, roller, kettle) 20231103_119
+(brush, roller, kettle) 20231103_129
+(brush, roller, kettle) 20231103_115
+(brush, roller, kettle) 20231103_151
+(brush, roller, kettle) 20231103_137
+(brush, roller, kettle) 20231103_145
+(brush, roller, kettle) 20231103_143
+(brush, roller, kettle) 20231103_121
+(brush, roller, kettle) 20231103_135
+(brush, roller, kettle) 20231103_123
+(brush, roller, kettle) 20231103_147
+(smear, glue gun, box) 20231010_184
+(smear, glue gun, box) 20231010_187
+(smear, glue gun, box) 20231010_192
+(smear, glue gun, box) 20231010_179
+(smear, glue gun, box) 20231010_193
+(smear, glue gun, box) 20231010_191
+(smear, glue gun, box) 20231010_188
+(smear, glue gun, box) 20231010_183
+(empty, teapot, kettle) 20231031_103
+(empty, teapot, kettle) 20231031_111
+(empty, teapot, kettle) 20231031_105
+(empty, teapot, kettle) 20231031_113
+(put in, spoon, bowl) 20231104_185
+(put in, spoon, bowl) 20231105_043
+(put in, spoon, bowl) 20231105_001
+(put in, spoon, bowl) 20231104_191
+(put in, spoon, bowl) 20231105_034
+(put in, spoon, bowl) 20231105_009
+(put in, spoon, bowl) 20231105_033
+(put in, spoon, bowl) 20231005_113
+(put in, spoon, bowl) 20231105_067
+(put in, spoon, bowl) 20231104_179
+(put in, spoon, bowl) 20231105_021
+(put in, spoon, bowl) 20231105_010
+(put in, spoon, bowl) 20231005_127
+(put in, spoon, bowl) 20231104_197
+(put in, spoon, bowl) 20231105_002
+(put in, spoon, bowl) 20231105_044
+(smear, eraser, plate) 20231104_055
+(smear, eraser, plate) 20231104_062
+(smear, eraser, plate) 20231104_066
+(smear, eraser, plate) 20231104_057
+(smear, eraser, plate) 20231104_052
+(smear, eraser, plate) 20230930_061
+(smear, eraser, plate) 20231104_056
+(smear, eraser, plate) 20231104_049
+(smear, eraser, plate) 20231104_064
+(smear, eraser, plate) 20231104_065
+(smear, eraser, plate) 20231104_063
+(smear, eraser, plate) 20231104_060
+(smear, eraser, plate) 20231104_051
+(smear, eraser, plate) 20231104_059
+(smear, eraser, plate) 20231104_061
+(smear, eraser, plate) 20231104_050
+(skim off, spoon, bowl) 20231105_014
+(skim off, spoon, bowl) 20231105_037
+(skim off, spoon, bowl) 20231005_115
+(skim off, spoon, bowl) 20231104_187
+(skim off, spoon, bowl) 20231105_048
+(skim off, spoon, bowl) 20231105_005
+(skim off, spoon, bowl) 20231104_181
+(skim off, spoon, bowl) 20231105_060
+(skim off, spoon, bowl) 20231105_047
+(skim off, spoon, bowl) 20231105_059
+(skim off, spoon, bowl) 20231105_038
+(skim off, spoon, bowl) 20231104_193
+(skim off, spoon, bowl) 20231105_025
+(skim off, spoon, bowl) 20231105_026
+(skim off, spoon, bowl) 20231104_199
+(stir, spoon, pan) 20231006_056
+(stir, spoon, pan) 20231020_155
+(stir, spoon, pan) 20231020_086
+(stir, spoon, pan) 20231020_072
+(stir, spoon, pan) 20231020_079
+(stir, spoon, pan) 20230927_012
+(stir, spoon, pan) 20231020_051
+(stir, spoon, pan) 20231020_058
+(stir, spoon, pan) 20231020_065
+(stir, spoon, pan) 20231020_148
+(stir, spoon, pan) 20231006_042
+(stir, spoon, pan) 20231015_165
+(stir, spoon, pan) 20231013_021
+(stir, spoon, pan) 20231020_162
+(stir, spoon, pan) 20231013_028
+(stir, spoon, pan) 20231020_169
+(pour in some, kettle, bowl) 20231019_017
+(pour in some, kettle, bowl) 20231031_051
+(pour in some, kettle, bowl) 20231019_025
+(pour in some, kettle, bowl) 20231019_009
+(pour in some, kettle, bowl) 20231031_041
+(pour in some, kettle, bowl) 20231019_027
+(pour in some, kettle, bowl) 20231031_049
+(pour in some, kettle, bowl) 20231019_001
+(pour in some, kettle, bowl) 20231031_043
+(pour in some, kettle, bowl) 20231019_003
+(brush, brush, helmet) 20231027_011
+(brush, brush, helmet) 20231027_014
+(brush, brush, helmet) 20231027_006
+(brush, brush, helmet) 20231027_005
+(brush, brush, helmet) 20231027_002
+(brush, brush, helmet) 20231027_020
+(brush, brush, helmet) 20231027_003
+(brush, brush, helmet) 20231027_015
+(brush, brush, helmet) 20231027_016
+(brush, brush, helmet) 20231027_013
+(brush, brush, helmet) 20231027_004
+(brush, brush, helmet) 20231027_010
+(brush, brush, helmet) 20231027_012
+(brush, brush, helmet) 20231027_007
+(brush, brush, helmet) 20231027_009
+(brush, brush, helmet) 20231027_001
+(brush, brush, helmet) 20231027_008
+(cut, spoon, pan) 20231006_040
+(cut, spoon, pan) 20231020_049
+(cut, spoon, pan) 20231020_167
+(cut, spoon, pan) 20231020_070
+(cut, spoon, pan) 20231020_084
+(cut, spoon, pan) 20231013_026
+(cut, spoon, pan) 20230927_010
+(cut, spoon, pan) 20231020_063
+(cut, spoon, pan) 20231006_047
+(cut, spoon, pan) 20231020_077
+(cut, spoon, pan) 20231020_160
+(cut, spoon, pan) 20231020_153
+(cut, spoon, pan) 20231020_056
+(cut, spoon, pan) 20231020_146
+(dust, brush, bowl) 20231103_187
+(dust, brush, bowl) 20230930_029
+(dust, brush, bowl) 20231005_195
+(dust, brush, bowl) 20231006_140
+(dust, brush, bowl) 20231005_193
+(dust, brush, bowl) 20231103_184
+(dust, brush, bowl) 20231103_185
+(dust, brush, bowl) 20231005_191
+(dust, brush, bowl) 20231005_197
+(dust, brush, bowl) 20231006_138
+(dust, brush, bowl) 20231103_182
+(dust, brush, bowl) 20231005_189
+(dust, brush, bowl) 20231103_183
+(dust, brush, bowl) 20231103_186
+(dust, brush, bowl) 20231103_188
+(dust, brush, bowl) 20231006_146
+(dust, brush, bowl) 20231103_181
+(dust, brush, bowl) 20230927_028
+(dust, brush, bowl) 20231005_199
+(dust, brush, bowl) 20231005_187
+(dust, brush, teapot) 20231005_241
+(dust, brush, teapot) 20231006_226
+(dust, brush, teapot) 20231005_235
+(dust, brush, teapot) 20230930_055
+(dust, brush, teapot) 20231006_218
+(dust, brush, teapot) 20231005_227
+(dust, brush, teapot) 20231006_220
+(dust, brush, teapot) 20231006_224
+(dust, brush, teapot) 20231006_230
+(dust, brush, teapot) 20231006_178
+(dust, brush, teapot) 20231006_222
+(dust, brush, teapot) 20231006_184
+(dust, brush, teapot) 20231005_231
+(dust, brush, teapot) 20231006_180
+(dust, brush, teapot) 20230930_053
+(dust, brush, teapot) 20231006_176
+(dust, brush, teapot) 20231005_243
+(dust, brush, teapot) 20231006_186
+(dust, brush, teapot) 20231006_234
+(dust, brush, teapot) 20231006_188
+(dust, brush, teapot) 20231006_228
+(dust, brush, teapot) 20231005_229
+(dust, brush, teapot) 20231006_216
+(dust, brush, teapot) 20230930_049
+(dust, brush, teapot) 20231005_225
+(measure, ruler, toy) 20231102_073
+(measure, ruler, toy) 20231102_075
+(measure, ruler, toy) 20231102_057
+(measure, ruler, toy) 20231102_074
+(measure, ruler, toy) 20231102_076
+(measure, ruler, toy) 20231102_058
+(measure, ruler, toy) 20231102_077
+(measure, ruler, toy) 20231102_078
+(empty, teapot, teapot) 20231031_121
+(empty, teapot, teapot) 20231031_125
+(empty, teapot, teapot) 20231031_123
+(stir-fry, spatula, pan) 20231005_020
+(stir-fry, spatula, pan) 20231020_043
+(stir-fry, spatula, pan) 20231020_029
+(stir-fry, spatula, pan) 20231020_112
+(stir-fry, spatula, pan) 20231020_119
+(stir-fry, spatula, pan) 20231013_006
+(stir-fry, spatula, pan) 20231013_013
+(stir-fry, spatula, pan) 20231020_105
+(stir-fry, spatula, pan) 20231020_036
+(scrape off, knife, box) 20231104_213
+(scrape off, knife, box) 20231104_214
+(scrape off, knife, box) 20231104_204
+(scrape off, knife, box) 20231104_212
+(scrape off, knife, box) 20231104_215
+(scrape off, knife, box) 20231104_216
+(scrape off, knife, box) 20231104_203
+(scrape off, knife, box) 20231104_205
+(scrape off, knife, box) 20231104_206
+(scrape off, knife, box) 20231104_217
+(scrape off, knife, box) 20231104_218
+(measure, ruler, plate) 20231104_079
+(measure, ruler, plate) 20231104_076
+(measure, ruler, plate) 20231104_072
+(measure, ruler, plate) 20231104_073
+(measure, ruler, plate) 20231104_082
+(measure, ruler, plate) 20231104_081
+(measure, ruler, plate) 20231104_084
+(measure, ruler, plate) 20231104_075
+(measure, ruler, plate) 20231104_069
+(measure, ruler, plate) 20231104_080
+(measure, ruler, plate) 20231104_070
+(measure, ruler, plate) 20231104_078
+(measure, ruler, plate) 20231104_077
+(measure, ruler, plate) 20231104_083
+(measure, ruler, plate) 20231104_074
+(measure, ruler, plate) 20231104_086
+(measure, ruler, plate) 20231104_068
+(measure, ruler, plate) 20231104_067
+(measure, ruler, plate) 20231104_085
+(put out, spoon, plate) 20231024_095
+(put out, spoon, plate) 20231024_026
+(put out, spoon, plate) 20231024_056
+(put out, spoon, plate) 20231024_050
+(put out, spoon, plate) 20231024_008
+(put out, spoon, plate) 20231024_090
+(put out, spoon, plate) 20231024_074
+(put out, spoon, plate) 20231024_032
+(put out, spoon, plate) 20231024_062
+(put out, spoon, plate) 20231024_068
+(put out, spoon, plate) 20231024_002
+(put out, spoon, plate) 20231024_084
+(put out, spoon, plate) 20231024_038
+(put out, spoon, plate) 20231024_014
+(put out, spoon, plate) 20231024_101
+(put out, spoon, plate) 20231024_020
+(put out, spoon, plate) 20231024_044
+(put out, spoon, plate) 20231024_080
+(put out, spatula, pan) 20231020_025
+(put out, spatula, pan) 20231005_016
+(put out, spatula, pan) 20231013_002
+(put out, spatula, pan) 20231020_032
+(put out, spatula, pan) 20231006_016
+(put out, spatula, pan) 20231020_039
+(put out, spatula, pan) 20231015_016
+(put out, spatula, pan) 20231020_108
+(put out, spatula, pan) 20231006_009
+(put out, spatula, pan) 20231015_009
+(put out, spatula, pan) 20231020_115
+(put out, spatula, pan) 20231020_122
+(put out, spatula, pan) 20231006_002
+(put out, spatula, pan) 20231005_023
+(put out, spatula, pan) 20231020_101
+(put out, spatula, pan) 20231013_009
+(put out, spatula, pan) 20231006_023
+(put out, spatula, pan) 20231015_023
+(put out, spatula, pan) 20231015_030
+(brush, eraser, bowl) 20231103_030
+(brush, eraser, bowl) 20231103_037
+(brush, eraser, bowl) 20231103_043
+(brush, eraser, bowl) 20231027_031
+(brush, eraser, bowl) 20231103_036
+(brush, eraser, bowl) 20231103_033
+(brush, eraser, bowl) 20231103_025
+(brush, eraser, bowl) 20231027_038
+(brush, eraser, bowl) 20231103_027
+(brush, eraser, bowl) 20231027_027
+(brush, eraser, bowl) 20231027_037
+(brush, eraser, bowl) 20231027_032
+(brush, eraser, bowl) 20231027_028
+(brush, eraser, bowl) 20231027_034
+(brush, eraser, bowl) 20231103_026
+(brush, eraser, bowl) 20231027_030
+(brush, eraser, bowl) 20231027_035
+(brush, eraser, bowl) 20231103_032
+(brush, eraser, bowl) 20231103_034
+(brush, eraser, bowl) 20231027_036
+(brush, eraser, bowl) 20231103_028
+(brush, eraser, bowl) 20231103_031
+(brush, eraser, bowl) 20231027_029
+(brush, eraser, bowl) 20231103_035
+(brush, eraser, bowl) 20231103_047
+(brush, eraser, bowl) 20231027_033
+(brush, eraser, bowl) 20231103_044
+(brush, eraser, bowl) 20231103_045
+(brush, eraser, bowl) 20231027_043
+(brush, eraser, bowl) 20231103_042
+(scrape off, knife, bowl) 20231031_165
+(scrape off, knife, bowl) 20231031_163
+(scrape off, knife, bowl) 20231031_158
+(scrape off, knife, bowl) 20231031_170
+(scrape off, knife, bowl) 20231031_159
+(scrape off, knife, bowl) 20231031_171
+(scrape off, knife, bowl) 20231031_164
+(scrape off, knife, bowl) 20231031_168
+(scrape off, knife, bowl) 20231031_177
+(scrape off, knife, bowl) 20231031_174
+(scrape off, knife, bowl) 20231031_175
+(scrape off, knife, bowl) 20231031_156
+(scrape off, knife, bowl) 20231031_162
+(scrape off, knife, bowl) 20231031_166
+(scrape off, knife, bowl) 20231031_160
+(scrape off, knife, bowl) 20231031_157
+(scrape off, knife, bowl) 20231031_169
+(scrape off, knife, bowl) 20231031_172
+(scrape off, knife, bowl) 20231031_167
+(scrape off, knife, bowl) 20231031_161
+(scrape off, knife, bowl) 20231031_176
+(scrape off, knife, bowl) 20231031_173
+(put in, bowl, plate) 20231024_233
+(put in, bowl, plate) 20230927_015
+(put in, bowl, plate) 20231024_274
+(put in, bowl, plate) 20231024_228
+(put in, bowl, plate) 20231024_294
+(put in, bowl, plate) 20231024_248
+(put in, bowl, plate) 20231024_258
+(put in, bowl, plate) 20231024_284
+(put in, bowl, plate) 20231024_279
+(put in, bowl, plate) 20231024_243
+(put in, bowl, plate) 20231024_253
+(put in, bowl, plate) 20231024_289
+(put in, bowl, plate) 20231024_299
+(put in, bowl, plate) 20231024_213
+(put in, bowl, plate) 20231024_238
+(put in, bowl, plate) 20231024_218
+(smear, soap, plate) 20230927_055
+(smear, soap, plate) 20230927_056
+(pour in some, teapot, kettle) 20231031_104
+(pour in some, teapot, kettle) 20231019_045
+(pour in some, teapot, kettle) 20231019_051
+(pour in some, teapot, kettle) 20231031_102
+(pour in some, teapot, kettle) 20231031_110
+(pour in some, teapot, kettle) 20231031_112
+(measure, ruler, bowl) 20231104_090
+(measure, ruler, bowl) 20231104_098
+(measure, ruler, bowl) 20231104_087
+(measure, ruler, bowl) 20231104_094
+(measure, ruler, bowl) 20231104_097
+(measure, ruler, bowl) 20231104_095
+(measure, ruler, bowl) 20231104_096
+(measure, ruler, bowl) 20231104_092
+(measure, ruler, bowl) 20231104_099
+(measure, ruler, bowl) 20231104_091
+(measure, ruler, bowl) 20231104_088
+(measure, ruler, bowl) 20231104_089
+(measure, ruler, bowl) 20231104_093
+(pour in some, plate, teapot) 20230927_045
+(measure, ruler, box) 20231102_022
+(measure, ruler, box) 20231102_004
+(measure, ruler, box) 20231102_008
+(empty, plate, bowl) 20230930_136
+(empty, plate, bowl) 20230930_140
+(empty, cup, teapot) 20230927_042
+(scrape off, spoon, bowl) 20231104_200
+(scrape off, spoon, bowl) 20231105_028
+(scrape off, spoon, bowl) 20231104_188
+(scrape off, spoon, bowl) 20231104_194
+(scrape off, spoon, bowl) 20231104_182
+(scrape off, spoon, bowl) 20231105_050
+(skim off, bowl, bowl) 20231013_132
+(skim off, bowl, bowl) 20231013_162
+(skim off, bowl, bowl) 20230927_020
+(skim off, bowl, bowl) 20231013_117
+(skim off, bowl, bowl) 20231013_142
+(skim off, bowl, bowl) 20231013_137
+(skim off, bowl, bowl) 20230928_023
+(stir, spatula, plate) 20231104_129
+(stir, spatula, plate) 20231104_171
+(stir, spatula, plate) 20230927_006
+(stir, spatula, plate) 20231005_042
+(stir, spatula, plate) 20231104_143
+(stir, spatula, plate) 20231005_035
+(stir, spatula, plate) 20230930_068
+(stir, spatula, plate) 20231104_157
+(stir, spatula, plate) 20231005_056
+(stir, spatula, plate) 20231104_164
+(stir, spatula, plate) 20231104_178
+(stir, spatula, plate) 20231002_055
+(stir, spatula, plate) 20231005_049
+(scrape off, knife, pan) 20231031_133
+(scrape off, knife, pan) 20231031_153
+(scrape off, knife, pan) 20231031_138
+(scrape off, knife, pan) 20231031_148
+(scrape off, knife, pan) 20231031_140
+(scrape off, knife, pan) 20231031_129
+(scrape off, knife, pan) 20231031_132
+(scrape off, knife, pan) 20231031_152
+(scrape off, knife, pan) 20231031_144
+(scrape off, knife, pan) 20231031_130
+(scrape off, knife, pan) 20231031_154
+(scrape off, knife, pan) 20231031_142
+(scrape off, knife, pan) 20231031_145
+(scrape off, knife, pan) 20231031_127
+(scrape off, knife, pan) 20231031_134
+(scrape off, knife, pan) 20231031_141
+(scrape off, knife, pan) 20231031_143
+(scrape off, knife, pan) 20231031_147
+(scrape off, knife, pan) 20231031_155
+(scrape off, knife, pan) 20231031_149
+(scrape off, knife, pan) 20231031_131
+(scrape off, knife, pan) 20231031_146
+(scrape off, knife, pan) 20231031_126
+(scrape off, knife, pan) 20231031_151
+(scrape off, knife, pan) 20231031_139
+(scrape off, knife, pan) 20231031_136
+(scrape off, knife, pan) 20231031_150
+(put in, bowl, bowl) 20231013_140
+(put in, bowl, bowl) 20231013_150
+(put in, bowl, bowl) 20231013_130
+(put in, bowl, bowl) 20231013_135
+(put in, bowl, bowl) 20230927_019
+(put in, bowl, bowl) 20231005_137
+(put in, bowl, bowl) 20231013_160
+(put in, bowl, bowl) 20231013_155
+(scrape off, spatula, pan) 20231005_018
+(scrape off, spatula, pan) 20231020_041
+(scrape off, spatula, pan) 20231006_004
+(scrape off, spatula, pan) 20230930_003
+(scrape off, spatula, pan) 20231020_117
+(scrape off, spatula, pan) 20231006_018
+(scrape off, spatula, pan) 20231006_011
+(scrape off, spatula, pan) 20231013_011
+(scrape off, spatula, pan) 20230930_009
+(scrape off, spatula, pan) 20231020_110
+(scrape off, spatula, pan) 20231006_025
+(scrape off, spatula, pan) 20231005_025
+(scrape off, spatula, pan) 20231020_020
+(scrape off, spatula, pan) 20231020_103
+(scrape off, spatula, pan) 20231020_027
+(brush, eraser, pan) 20231103_019
+(brush, eraser, pan) 20231103_003
+(brush, eraser, pan) 20231103_023
+(brush, eraser, pan) 20231103_018
+(brush, eraser, pan) 20231103_009
+(brush, eraser, pan) 20231103_010
+(brush, eraser, pan) 20231103_015
+(brush, eraser, pan) 20231103_004
+(brush, eraser, pan) 20231103_014
+(brush, eraser, pan) 20231103_016
+(brush, eraser, pan) 20231103_020
+(brush, eraser, pan) 20231103_017
+(brush, eraser, pan) 20231103_006
+(brush, eraser, pan) 20231103_007
+(brush, eraser, pan) 20231103_022
+(brush, eraser, pan) 20231103_005
+(brush, eraser, pan) 20231103_021
+(brush, eraser, pan) 20231103_011
+(brush, eraser, pan) 20231103_008
+(brush, eraser, pan) 20231103_013
+(brush, eraser, pan) 20231103_001
+(brush, eraser, pan) 20231103_024
+(brush, eraser, pan) 20231103_002
+(brush, eraser, pan) 20231103_012
+(skim off, spatula, bowl) 20231024_191
+(skim off, spatula, bowl) 20231024_108
+(skim off, spatula, bowl) 20231005_066
+(skim off, spatula, bowl) 20231024_162
+(skim off, spatula, bowl) 20231024_150
+(skim off, spatula, bowl) 20231024_132
+(skim off, spatula, bowl) 20230930_070
+(skim off, spatula, bowl) 20231024_120
+(skim off, spatula, bowl) 20231024_144
+(skim off, spatula, bowl) 20231024_156
+(skim off, spatula, bowl) 20231024_174
+(skim off, spatula, bowl) 20231006_031
+(skim off, spatula, bowl) 20231024_185
+(skim off, spatula, bowl) 20231024_197
+(skim off, spatula, bowl) 20231024_114
+(skim off, spatula, bowl) 20230926_006
+(skim off, spatula, bowl) 20231024_138
+(skim off, spatula, bowl) 20231024_126
+(skim off, spatula, bowl) 20231024_209
+(skim off, spatula, bowl) 20231024_168
+(empty, plate, teapot) 20230927_046
+(empty, plate, box) 20230927_050
+(empty, plate, box) 20230928_035
+(put out, bowl, pan) 20231020_186
+(put out, bowl, pan) 20231015_091
+(put out, bowl, pan) 20231015_094
+(put out, bowl, pan) 20231020_183
+(put out, bowl, pan) 20231020_171
+(put out, bowl, pan) 20231020_091
+(put out, bowl, pan) 20231020_177
+(put out, bowl, pan) 20231020_095
+(put out, bowl, pan) 20231013_030
+(put out, bowl, pan) 20231020_088
+(put out, bowl, pan) 20231020_098
+(put out, bowl, pan) 20231020_174
+(put out, bowl, pan) 20231015_079
+(put out, bowl, pan) 20231020_180
+(put out, bowl, pan) 20231013_033
+(dust, roller, plate) 20231013_255
+(dust, roller, plate) 20231019_228
+(dust, roller, plate) 20231019_078
+(dust, roller, plate) 20231019_104
+(dust, roller, plate) 20231020_012
+(dust, roller, plate) 20231013_223
+(dust, roller, plate) 20231019_122
+(dust, roller, plate) 20231013_225
+(dust, roller, plate) 20231019_160
+(dust, roller, plate) 20231019_224
+(dust, roller, plate) 20231019_150
+(dust, roller, plate) 20231019_184
+(dust, roller, plate) 20231019_234
+(dust, roller, plate) 20231019_248
+(dust, roller, plate) 20231013_205
+(dust, roller, plate) 20231013_261
+(dust, roller, plate) 20231013_227
+(dust, roller, plate) 20231013_239
+(dust, roller, plate) 20231019_162
+(dust, roller, plate) 20231013_203
+(dust, roller, plate) 20231019_110
+(dust, roller, plate) 20231019_156
+(dust, roller, plate) 20231019_182
+(dust, roller, plate) 20231020_014
+(dust, roller, plate) 20231019_166
+(dust, roller, plate) 20231019_152
+(dust, roller, plate) 20231019_120
+(dust, roller, plate) 20231013_237
+(dust, roller, plate) 20231013_271
+(dust, roller, plate) 20231019_114
+(dust, roller, plate) 20231019_244
+(dust, roller, plate) 20231019_100
+(dust, roller, plate) 20231013_273
+(dust, roller, plate) 20231019_196
+(dust, roller, plate) 20231020_010
+(dust, roller, plate) 20231013_189
+(dust, roller, plate) 20231019_080
+(dust, roller, plate) 20231019_188
+(dust, roller, plate) 20231019_170
+(dust, roller, plate) 20231019_084
+(dust, roller, plate) 20231013_219
+(dust, roller, plate) 20231020_004
+(dust, roller, plate) 20231019_106
+(dust, roller, plate) 20231019_092
+(dust, roller, plate) 20231013_241
+(dust, roller, plate) 20231019_174
+(dust, roller, plate) 20231019_102
+(dust, roller, plate) 20231019_238
+(dust, roller, plate) 20231013_183
+(dust, roller, plate) 20231020_016
+(dust, roller, plate) 20231019_186
+(dust, roller, plate) 20231019_246
+(dust, roller, plate) 20231019_180
+(dust, roller, plate) 20231019_090
+(dust, roller, plate) 20231019_154
+(dust, roller, plate) 20231019_172
+(dust, roller, plate) 20231019_194
+(dust, roller, plate) 20231020_008
+(dust, roller, plate) 20231019_242
+(dust, roller, plate) 20231013_275
+(dust, roller, plate) 20231019_116
+(dust, roller, plate) 20231013_231
+(dust, roller, plate) 20231019_226
+(dust, roller, plate) 20231019_164
+(dust, roller, plate) 20231013_259
+(dust, roller, plate) 20231013_229
+(dust, roller, plate) 20231019_232
+(dust, roller, plate) 20231013_187
+(dust, roller, plate) 20231019_118
+(dust, roller, plate) 20231020_002
+(dust, roller, plate) 20231019_158
+(dust, roller, plate) 20231013_269
+(dust, roller, plate) 20231013_267
+(dust, roller, plate) 20231019_168
+(dust, roller, plate) 20231019_252
+(dust, roller, plate) 20231013_235
+(dust, roller, plate) 20230927_034
+(dust, roller, plate) 20231019_178
+(dust, roller, plate) 20231013_265
+(dust, roller, plate) 20231019_086
+(dust, roller, plate) 20231013_263
+(dust, roller, plate) 20231020_006
+(dust, roller, plate) 20231019_096
+(dust, roller, plate) 20231019_190
+(dust, roller, plate) 20231019_230
+(dust, roller, plate) 20231019_236
+(dust, roller, plate) 20231019_124
+(dust, roller, plate) 20231019_222
+(dust, roller, plate) 20231013_233
+(dust, roller, plate) 20231019_240
+(dust, roller, plate) 20231019_094
+(dust, roller, plate) 20231013_277
+(dust, roller, plate) 20231019_098
+(dust, roller, plate) 20231019_192
+(dust, roller, plate) 20231019_088
+(dust, roller, plate) 20231019_176

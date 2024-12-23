@@ -156,6 +156,14 @@ ffmpeg -i ./egocentric_depth.avi -f image2 -start_number 0 -vf fps=fps=30 -qscal
 
 Each depth image is a 1920x1080 uint16 array. The depth scale is 1000 (i.e. depth values are stored in millimeters).
 
+## Data Lists
+
+We provide three data lists in the folder ```data_lists```:
+
+* ```data_lists/v1_overall_data_sequences.txt``` (2317 sequences) is the overall data list of the whole dataset (Version 1) with available data modalities except egocentric color and depth videos.
+* ```data_lists/v1_egocentric_data_available_sequences.txt``` (2212 sequences) is the data sequences of the whole dataset (Version 1) where all data modalities are available.
+* ```v1_overall_data_train_test_split.txt``` (2317 sequences) is the train-test split of the whole dataset (Version 1).
+
 ## Citation
 
 If you find our work useful in your research, please consider citing:
