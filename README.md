@@ -162,7 +162,12 @@ We provide three data lists in the folder ```data_lists```:
 
 * ```data_lists/v1_overall_data_sequences.txt``` (2317 sequences) is the overall data list of the whole dataset (Version 1) with available data modalities except egocentric color and depth videos.
 * ```data_lists/v1_egocentric_data_available_sequences.txt``` (2212 sequences) is the data sequences of the whole dataset (Version 1) where all data modalities are available.
-* ```v1_overall_data_train_test_split.txt``` (2317 sequences) is the train-test split of the whole dataset (Version 1).
+* ```v1_overall_data_train_test_split.txt``` (2317 sequences) is the train-test split of the whole dataset (Version 1):
+  + "train" is the training set
+  + "test_1" is the test set S1 (no generalization)
+  + "test_2" is the test set S2 (geometry-level generalization)
+  + "test_3" is the test set S3 (interaction-level generalization)
+  + "test_4" is the test set S4 (compound generalization)
 
 ## Citation
 
