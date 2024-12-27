@@ -82,23 +82,27 @@ class MeshRendererWrapper:
 class Pyt3DWrapper:
     def __init__(self, image_size, device='cuda:0', colors=COLOR_LIST, use_fixed_cameras=False, eyes=None, intrin=None, extrin=None, lights=None):
         self.renderer = MeshRendererWrapper(image_size, device=device, lights=lights)
+        self.image_size = image_size
         self.use_fixed_cameras = use_fixed_cameras
+        self.device = device
         if use_fixed_cameras:
-            focal_length = torch.tensor((-intrin[0, 0], -intrin[1, 1]), dtype=torch.float32).unsqueeze(0)
-            cam_center = torch.tensor((intrin[0, 2], intrin[1, 2]), dtype=torch.float32).unsqueeze(0)
-            R = torch.from_numpy(extrin[:3, :3].T).unsqueeze(0)
-            T = torch.from_numpy(extrin[:3, 3]).unsqueeze(0)
-            pyt3d_version = pytorch3d.__version__
-            if pyt3d_version >= '0.6.0':
-                self.cameras = [PerspectiveCameras(focal_length=focal_length, principal_point=cam_center, image_size=((image_size[1], image_size[0]),), device=device, R=R, T=T, in_ndc=False)]
-            else:
-                self.cameras = [PerspectiveCameras(focal_length=focal_length, principal_point=cam_center, image_size=((image_size[1], image_size[0]),), device=device, R=R, T=T)]
+            self.setup_intrin_extrin(intrin, extrin)
         elif not eyes is None:
             self.cameras = self.get_surround_cameras(eyes=eyes, n_poses=len(eyes), device=device)
         else:
             self.cameras = self.get_surround_cameras(device=device)
         self.colors = deepcopy(colors)
-        self.device = device
+    
+    def setup_intrin_extrin(self, intrin, extrin):
+        focal_length = torch.tensor((-intrin[0, 0], -intrin[1, 1]), dtype=torch.float32).unsqueeze(0)
+        cam_center = torch.tensor((intrin[0, 2], intrin[1, 2]), dtype=torch.float32).unsqueeze(0)
+        R = torch.from_numpy(extrin[:3, :3].T).unsqueeze(0)
+        T = torch.from_numpy(extrin[:3, 3]).unsqueeze(0)
+        pyt3d_version = pytorch3d.__version__
+        if pyt3d_version >= '0.6.0':
+            self.cameras = [PerspectiveCameras(focal_length=focal_length, principal_point=cam_center, image_size=((self.image_size[1], self.image_size[0]),), device=self.device, R=R, T=T, in_ndc=False)]
+        else:
+            self.cameras = [PerspectiveCameras(focal_length=focal_length, principal_point=cam_center, image_size=((self.image_size[1], self.image_size[0]),), device=self.device, R=R, T=T)]
     
     @staticmethod
     def get_surround_cameras(radius=0.5, eyes=None, n_poses=30, up=(0.0, 0.0, 1.0), device='cuda:0'):
