@@ -122,7 +122,7 @@ pip install -r requirements.txt
 
 [2] Download [MANO models](https://mano.is.tue.mpg.de/), and put ```MANO_LEFT.pkl``` and ```MANO_RIGHT.pkl``` in the folder ```dataset_utils/manopth/mano/models```.
 
-[3] Visualize Hand-Object Poses:
+[3] Visualize Hand-Object Poses in a Fixed View:
 
 ```x
 cd dataset_utils
@@ -139,7 +139,26 @@ You can obtain the following visualization result:
 
 <img src="https://raw.githubusercontent.com/leolyliu/TACO-Instructions/master/assets/example.gif" width="1024"/>
 
-[4] Parse Egocentric Depth Videos:
+To visualize hand-object poses in dataset's third-person views, please change the constants ```IMAGE_SIZE```, ```INTRINSIC```, and ```CAMERA_TO_WORLD``` to the values from the data folder ```Allocentric_Camera_Parameters```.
+
+[4] Visualize Hand-Object Poses in Egocentric Frames:
+
+```x
+cd dataset_utils
+python project_pose_to_egocentric_view.py --dataset_root <dataset root directory> --object_model_root <object model root directory> --triplet <triplet name> --sequence_name <sequence name> --save_path <path to save the visualization result> --device <device for the rendering process>
+```
+
+For example, if you select the following data sequence:
+
+```x
+python project_pose_to_egocentric_view.py --dataset_root <dataset root directory> --object_model_root <object model root directory> --triplet "(brush, brush, box)" --sequence_name "20231006_163" --save_path "./egocentric_example.gif" --device "cuda:0"
+```
+
+You can obtain the following visualization result:
+
+<img src="https://raw.githubusercontent.com/leolyliu/TACO-Instructions/master/assets/egocentric_example.gif" width="1920"/>
+
+[5] Parse Egocentric Depth Videos:
 
 Please use the following command for each video:
 

@@ -54,7 +54,7 @@ def visualize(tool_model, target_model, tool_poses, target_poses, right_hand_mes
         if not egocentric_imgs is None:
             img = overlay_two_imgs(egocentric_imgs[frame_idx], img)
         
-        rgb_imgs.append(img)
+        rgb_imgs.append(cv2.resize(img, (image_size[0] // 2, image_size[1] // 2)))
     
     # save
     imageio.mimsave(save_path, rgb_imgs, duration=(1000/(30//sampling_rate)), loop=0)
