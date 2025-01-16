@@ -188,6 +188,10 @@ We provide three data lists in the folder ```data_lists```:
   + "test_3" is the test set S3 (interaction-level generalization)
   + "test_4" is the test set S4 (compound generalization)
 
+## How to Possess the Real Objects?
+
+We purchased the objects from the [Jingdong online mall](https://www.jd.com/) in China. We provide the URLs of most of the objects in ```object_additional_information/object_purchase_list.xlsx```.
+
 ## Citation
 
 If you find our work useful in your research, please consider citing:
