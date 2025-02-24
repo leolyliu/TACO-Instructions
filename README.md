@@ -27,7 +27,7 @@ Dataset contents:
 * **206** High-resolution object models (10K~100K faces per object mesh)
 * Hand-object pose and mesh annotations
 * Egocentric RGB-D videos
-* **8** allocentric RGB videos
+* **8**-view allocentric RGB videos
 
 ### Whole Dataset (Version 1)
 
@@ -41,9 +41,10 @@ Dataset contents:
 * **206** High-resolution object models (10K~100K faces per object mesh)
 * Hand-object pose and mesh annotations
 * Egocentric RGB-D videos
-* **12** allocentric RGB videos
+* **12**-view allocentric RGB videos
 * Camera parameters
 * Automatic Hand-object 2D segmentations
+* Marker-removed 12-view allocentric RGB videos
 
 If you have questions about the dataset, please contact ```yun-liu22@mails.tsinghua.edu.cn```.
 
@@ -102,6 +103,16 @@ The files of the dataset are organized as follows:
   |-- 001_cm.obj
   ...
   |-- 218_cm.obj
+|-- Marker_Removed_Allocentric_RGB_Videos
+  |-- <triplet_1>
+    |-- <sequence_1>
+      |-- 22070938.mp4
+      |-- 22139905.mp4
+      ...
+    |-- <sequence_2>
+    ...
+  |-- <triplet_2>
+  ...
 ```
 
 ## Data Visualization
@@ -179,7 +190,7 @@ Each depth image is a 1920x1080 uint16 array. The depth scale is 1000 (i.e. dept
 
 We provide three data lists in the folder ```data_lists```:
 
-* ```data_lists/v1_overall_data_sequences.txt``` (2317 sequences) is the overall data list of the whole dataset (Version 1) with available data modalities except egocentric color and depth videos.
+* ```data_lists/v1_overall_data_sequences.txt``` (2317 sequences) is the overall data list of the whole dataset (Version 1) with all data modalities except the egocentric and the marker-removed videos.
 * ```data_lists/v1_egocentric_data_available_sequences.txt``` (2212 sequences) is the data sequences of the whole dataset (Version 1) where all data modalities are available.
 * ```v1_overall_data_train_test_split.txt``` (2317 sequences) is the train-test split of the whole dataset (Version 1):
   + "train" is the training set
@@ -187,6 +198,7 @@ We provide three data lists in the folder ```data_lists```:
   + "test_2" is the test set S2 (geometry-level generalization)
   + "test_3" is the test set S3 (interaction-level generalization)
   + "test_4" is the test set S4 (compound generalization)
+* ```v1_marker_removed_data_available_sequences.txt``` (2120 sequences) is the data sequences of the whole dataset (Version 1) where marker-removed allocentric RGB videos are available.
 
 ## Citation
 
