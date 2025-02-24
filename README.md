@@ -200,6 +200,10 @@ We provide three data lists in the folder ```data_lists```:
   + "test_4" is the test set S4 (compound generalization)
 * ```v1_marker_removed_data_available_sequences.txt``` (2120 sequences) is the data sequences of the whole dataset (Version 1) where marker-removed allocentric RGB videos are available.
 
+## How to Possess the Real Objects?
+
+We purchased the objects from the [Jingdong online mall](https://www.jd.com/) in China. We provide the URLs of most of the objects in ```object_additional_information/object_purchase_list.xlsx```.
+
 ## Citation
 
 If you find our work useful in your research, please consider citing:
