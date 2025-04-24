@@ -150,7 +150,7 @@ You can obtain the following visualization result:
 
 <img src="https://raw.githubusercontent.com/leolyliu/TACO-Instructions/master/assets/example.gif" width="1024"/>
 
-To visualize hand-object poses in dataset's third-person views, please change the constants ```IMAGE_SIZE```, ```INTRINSIC```, and ```CAMERA_TO_WORLD``` to the values from the data folder ```Allocentric_Camera_Parameters```.
+To visualize hand-object poses in dataset's third-person views, please change the constants ```IMAGE_SIZE```, ```INTRINSIC```, and ```EXTRINSIC``` to the values from the data folder ```Allocentric_Camera_Parameters```. In the json files of the allocentric camera parameters, ```imgSize``` denotes the resolution ([width, height]) of the video, ```K``` denotes the 3x3 camera intrinsic matrix, ```R``` denotes the 3x3 rotation matrix of the camera extrinsic, and ```T``` denotes the 3D translation vector of the camera extrinsic.
 
 [4] Visualize Hand-Object Poses in Egocentric Frames:
 
