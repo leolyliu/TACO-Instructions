@@ -184,7 +184,7 @@ mkdir ./decode
 ffmpeg -i ./egocentric_depth.avi -f image2 -start_number 0 -vf fps=fps=30 -qscale:v 2 ./decode/%05d.png
 ```
 
-Each depth image is a 1920x1080 uint16 array. The depth scale is 1000 (i.e. depth values are stored in millimeters).
+Each depth image is a 1920x1080 uint16 array. The depth scale is 4000 (i.e. depth values are stored in 0.25 millimeter).
 
 ## Data Lists
 
