@@ -187,7 +187,7 @@ ffmpeg -i ./egocentric_depth.avi -f image2 -start_number 0 -vf fps=fps=30 -qscal
 Each depth image is a 1920x1080 uint16 array. The depth scale is 4000 (i.e. depth values are stored in 0.25 millimeter).
 
 
-## Tactile Data Annotation
+## (Third-party Annotation Tools) Tactile Data Annotation
 
 TACO provides rich hand-object pose annotations for bimanual manipulation sequences. If you want to add **tactile-related labels** on top of the pose data — such as contact events, manipulation phases, or slip detection — here is a recommended annotation workflow.
 
