@@ -186,6 +186,40 @@ ffmpeg -i ./egocentric_depth.avi -f image2 -start_number 0 -vf fps=fps=30 -qscal
 
 Each depth image is a 1920x1080 uint16 array. The depth scale is 4000 (i.e. depth values are stored in 0.25 millimeter).
 
+
+## Tactile Data Annotation
+
+TACO provides rich hand-object pose annotations for bimanual manipulation sequences. If you want to add **tactile-related labels** on top of the pose data — such as contact events, manipulation phases, or slip detection — here is a recommended annotation workflow.
+
+### Supported Label Types
+
+- **Contact segmentation**: contact / non-contact per frame
+- **Manipulation phases**: approach → contact → manipulation → release
+- **Slip event labeling**: critical for grasp stability research
+- **Force magnitude estimation**
+- **Episode-level labels**: success / failure / aborted
+
+### Annotation with TLabel
+
+[TLabel](https://github.com/liesliy/tlabel) is an open-source sensor-agnostic tactile annotation toolkit that works well with TACO's sequence format:
+
+```python
+from tlabel.core.loader import load
+from tlabel.viewer.panel import TLabelPanel
+
+# Load TACO sequence
+data = load("sequence_data.h5", format="auto")
+panel = TLabelPanel(data, lang="en")
+panel  # Interactive annotation panel in Jupyter
+```
+
+Features:
+- **Panel UI** for visual frame-by-frame annotation (works in Jupyter)
+- **AI-assisted pre-annotation** for contact/slip detection (HMM-based, no GPU needed)
+- **Unified export** to JSON / CSV / HDF5 that integrates with TACO's data pipelines
+
+For more details, see the [TLabel documentation](https://github.com/liesliy/tlabel).
+
 ## Data Lists
 
 We provide three data lists in the folder ```data_lists```:
