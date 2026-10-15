@@ -33,6 +33,8 @@ Dataset contents:
 
 The [whole dataset (version 1)](https://www.dropbox.com/scl/fo/8w7xir110nbcnq8uo1845/AOaHUxGEcR0sWvfmZRQQk9g?rlkey=xnhajvn71ua5i23w75la1nidx&st=9t8ofde7&dl=0) contains 2317 motion sequences. Please refer to the "Data Visualization" section for data usage.
 
+[This link](https://huggingface.co/datasets/leolyliu/TACO/tree/main) is a Hugging Face version of the dataset.
+
 [This link](https://www.dropbox.com/scl/fo/6wux06w26exuqt004eg1a/AM4Ia7pK_b0DURAVyxpHLuY?rlkey=e76q06hyj9yqbahhipmf5ij1o&st=c30zhh8s&dl=0) is a backup of this dataset.
 
 Dataset contents:
